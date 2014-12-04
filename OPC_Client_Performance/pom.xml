@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.freud.opc</groupId>
-	<artifactId>OPC_Client_Jeasyopc</artifactId>
+	<artifactId>OPC_Client_Performance</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
@@ -17,6 +17,7 @@
 			</plugin>
 		</plugins>
 	</build>
+
 	<dependencies>
 		<dependency>
 			<groupId>log4j</groupId>
@@ -34,5 +35,5 @@
 			<version>1.2</version>
 		</dependency>
 	</dependencies>
-
+	
 </project>

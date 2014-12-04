@@ -1,0 +1,169 @@
+2014-12-04 15:55:34,524-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - ===================Sync Log Start=============================
+   2014-12-04 15:55:34,540-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - ================================================
+   2014-12-04 15:55:34,541-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - ================================================
+   2014-12-04 15:55:34,541-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - ================================================
+   2014-12-04 15:55:34,541-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-1W:
+   2014-12-04 15:55:34,542-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 15:55:34 CST 2014],CurrentMillis:1417679734542
+   2014-12-04 15:55:34,619-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 15:55:34 CST 2014],CurrentMillis:1417679734619
+   2014-12-04 15:55:38,879-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 15:55:38 CST 2014],CurrentMillis:1417679738879
+   2014-12-04 15:55:39,375-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 15:55:39 CST 2014],CurrentMillis:1417679739375
+   2014-12-04 15:55:39,375-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[4833],readUsed[496]
+   2014-12-04 15:55:39,917-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-2W:
+   2014-12-04 15:55:39,917-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 15:55:39 CST 2014],CurrentMillis:1417679739917
+   2014-12-04 15:55:39,947-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 15:55:39 CST 2014],CurrentMillis:1417679739947
+   2014-12-04 15:55:48,361-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 15:55:48 CST 2014],CurrentMillis:1417679748361
+   2014-12-04 15:55:49,787-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 15:55:49 CST 2014],CurrentMillis:1417679749787
+   2014-12-04 15:55:49,788-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[9870],readUsed[1426]
+   2014-12-04 15:55:51,903-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-3W:
+   2014-12-04 15:55:51,904-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 15:55:51 CST 2014],CurrentMillis:1417679751904
+   2014-12-04 15:55:52,005-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 15:55:52 CST 2014],CurrentMillis:1417679752005
+   2014-12-04 15:56:07,315-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 15:56:07 CST 2014],CurrentMillis:1417679767315
+   2014-12-04 15:56:10,509-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 15:56:10 CST 2014],CurrentMillis:1417679770509
+   2014-12-04 15:56:10,511-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[18606],readUsed[3194]
+   2014-12-04 15:56:15,338-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-4W:
+   2014-12-04 15:56:15,340-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 15:56:15 CST 2014],CurrentMillis:1417679775340
+   2014-12-04 15:56:15,401-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 15:56:15 CST 2014],CurrentMillis:1417679775400
+   2014-12-04 15:56:40,245-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 15:56:40 CST 2014],CurrentMillis:1417679800245
+   2014-12-04 15:56:46,227-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 15:56:46 CST 2014],CurrentMillis:1417679806227
+   2014-12-04 15:56:46,229-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[30888],readUsed[5981]
+   2014-12-04 15:56:55,275-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-5W:
+   2014-12-04 15:56:55,277-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 15:56:55 CST 2014],CurrentMillis:1417679815277
+   2014-12-04 15:56:55,457-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 15:56:55 CST 2014],CurrentMillis:1417679815457
+   2014-12-04 15:57:33,342-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 15:57:33 CST 2014],CurrentMillis:1417679853342
+   2014-12-04 15:57:43,176-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 15:57:43 CST 2014],CurrentMillis:1417679863176
+   2014-12-04 15:57:43,180-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[47902],readUsed[9835]
+   2014-12-04 15:57:58,119-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-6W:
+   2014-12-04 15:57:58,122-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 15:57:58 CST 2014],CurrentMillis:1417679878122
+   2014-12-04 15:57:58,311-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 15:57:58 CST 2014],CurrentMillis:1417679878311
+   2014-12-04 15:58:51,438-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 15:58:51 CST 2014],CurrentMillis:1417679931438
+   2014-12-04 15:59:06,350-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 15:59:06 CST 2014],CurrentMillis:1417679946350
+   2014-12-04 15:59:06,354-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[68229],readUsed[14911]
+   2014-12-04 15:59:28,886-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-7W:
+   2014-12-04 15:59:28,890-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 15:59:28 CST 2014],CurrentMillis:1417679968890
+   2014-12-04 15:59:29,038-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 15:59:29 CST 2014],CurrentMillis:1417679969038
+   2014-12-04 16:00:42,882-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:00:42 CST 2014],CurrentMillis:1417680042882
+   2014-12-04 16:01:05,419-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 16:01:05 CST 2014],CurrentMillis:1417680065419
+   2014-12-04 16:01:05,427-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[96535],readUsed[22540]
+   2014-12-04 16:01:38,670-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-8W:
+   2014-12-04 16:01:38,675-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:01:38 CST 2014],CurrentMillis:1417680098675
+   2014-12-04 16:01:38,737-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:01:38 CST 2014],CurrentMillis:1417680098737
+   2014-12-04 16:03:14,840-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:03:14 CST 2014],CurrentMillis:1417680194840
+2014-12-04 16:15:03,350-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - ===================Aync Log Start=============================
+   2014-12-04 16:15:03,351-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - ================================================
+   2014-12-04 16:15:03,351-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - ================================================
+   2014-12-04 16:15:03,351-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - ================================================
+   2014-12-04 16:15:03,351-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-1W:
+   2014-12-04 16:15:03,352-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:15:03 CST 2014],CurrentMillis:1417680903352
+   2014-12-04 16:15:03,428-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:15:03 CST 2014],CurrentMillis:1417680903428
+   2014-12-04 16:15:07,704-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:15:07 CST 2014],CurrentMillis:1417680907704
+   2014-12-04 16:15:10,099-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:15:10 CST 2014],CurrentMillis:1417680910099
+   2014-12-04 16:15:10,099-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[6746],readUsed[2395]
+   2014-12-04 16:15:10,639-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-2W:
+   2014-12-04 16:15:10,639-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:15:10 CST 2014],CurrentMillis:1417680910639
+   2014-12-04 16:15:10,667-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:15:10 CST 2014],CurrentMillis:1417680910667
+   2014-12-04 16:15:19,122-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:15:19 CST 2014],CurrentMillis:1417680919122
+   2014-12-04 16:15:21,143-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:15:21 CST 2014],CurrentMillis:1417680921143
+   2014-12-04 16:15:21,143-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[10504],readUsed[2020]
+   2014-12-04 16:15:23,227-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-3W:
+   2014-12-04 16:15:23,228-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:15:23 CST 2014],CurrentMillis:1417680923228
+   2014-12-04 16:15:23,268-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:15:23 CST 2014],CurrentMillis:1417680923268
+   2014-12-04 16:15:38,572-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:15:38 CST 2014],CurrentMillis:1417680938572
+   2014-12-04 16:15:40,623-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:15:40 CST 2014],CurrentMillis:1417680940623
+   2014-12-04 16:15:40,628-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[17399],readUsed[2054]
+   2014-12-04 16:15:45,722-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-4W:
+   2014-12-04 16:15:45,724-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:15:45 CST 2014],CurrentMillis:1417680945724
+   2014-12-04 16:15:45,818-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:15:45 CST 2014],CurrentMillis:1417680945818
+   2014-12-04 16:16:10,345-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:16:10 CST 2014],CurrentMillis:1417680970345
+   2014-12-04 16:16:12,361-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:16:12 CST 2014],CurrentMillis:1417680972361
+   2014-12-04 16:16:12,368-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[26643],readUsed[2020]
+   2014-12-04 16:16:21,987-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-5W:
+   2014-12-04 16:16:21,990-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:16:21 CST 2014],CurrentMillis:1417680981990
+   2014-12-04 16:16:22,111-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:16:22 CST 2014],CurrentMillis:1417680982111
+   2014-12-04 16:17:02,012-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:17:02 CST 2014],CurrentMillis:1417681022012
+   2014-12-04 16:17:04,046-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:17:04 CST 2014],CurrentMillis:1417681024046
+   2014-12-04 16:17:04,059-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[42068],readUsed[2043]
+   2014-12-04 16:17:23,656-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-6W:
+   2014-12-04 16:17:23,659-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:17:23 CST 2014],CurrentMillis:1417681043659
+   2014-12-04 16:17:23,783-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:17:23 CST 2014],CurrentMillis:1417681043783
+   2014-12-04 16:18:19,413-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:18:19 CST 2014],CurrentMillis:1417681099413
+   2014-12-04 16:18:21,481-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:18:21 CST 2014],CurrentMillis:1417681101481
+   2014-12-04 16:18:21,496-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[57835],readUsed[2077]
+   2014-12-04 16:18:53,254-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-7W:
+   2014-12-04 16:18:53,263-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:18:53 CST 2014],CurrentMillis:1417681133263
+   2014-12-04 16:18:53,485-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:18:53 CST 2014],CurrentMillis:1417681133485
+   2014-12-04 16:20:07,403-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:20:07 CST 2014],CurrentMillis:1417681207403
+   2014-12-04 16:20:09,434-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:20:09 CST 2014],CurrentMillis:1417681209434
+   2014-12-04 16:20:09,448-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[76180],readUsed[2037]
+   2014-12-04 16:20:51,799-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-8W:
+   2014-12-04 16:20:51,805-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:20:51 CST 2014],CurrentMillis:1417681251805
+   2014-12-04 16:20:52,025-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:20:52 CST 2014],CurrentMillis:1417681252025
+   2014-12-04 16:22:27,152-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:22:27 CST 2014],CurrentMillis:1417681347152
+   2014-12-04 16:22:29,182-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:22:29 CST 2014],CurrentMillis:1417681349182
+   2014-12-04 16:22:29,199-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[97390],readUsed[2034]
+   2014-12-04 16:23:26,089-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-9W:
+   2014-12-04 16:23:26,096-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:23:26 CST 2014],CurrentMillis:1417681406096
+   2014-12-04 16:23:26,349-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:23:26 CST 2014],CurrentMillis:1417681406349
+   2014-12-04 16:25:33,622-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:25:33 CST 2014],CurrentMillis:1417681533622
+   2014-12-04 16:25:35,657-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:25:35 CST 2014],CurrentMillis:1417681535657
+   2014-12-04 16:25:35,676-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[129575],readUsed[2044]
+   2014-12-04 16:26:51,460-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Step-10W:
+   2014-12-04 16:26:51,468-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - startDate[Thu Dec 04 16:26:51 CST 2014],CurrentMillis:1417681611468
+   2014-12-04 16:26:51,734-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Item traversal Date[Thu Dec 04 16:26:51 CST 2014],CurrentMillis:1417681611734
+   2014-12-04 16:29:20,441-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - Read startDate[Thu Dec 04 16:29:20 CST 2014],CurrentMillis:1417681760441
+   2014-12-04 16:29:22,488-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - EndDate[Thu Dec 04 16:29:22 CST 2014],CurrentMillis:1417681762488
+   2014-12-04 16:29:22,513-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - total used[151038],readUsed[2059]
+   2014-12-04 16:30:57,735-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - ================================================
+   2014-12-04 16:30:57,745-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - ================================================
+   2014-12-04 16:30:57,755-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - ================================================
+   2014-12-04 16:30:57,762-[TS] INFO main com.freud.opc.jeasyopc.perf.Async10OPCPerfTest - ===================Aync Log end=============================
+   2014-12-04 16:33:48,340-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - ===================Sync Log Start=============================
+   2014-12-04 16:33:48,341-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - ================================================
+   2014-12-04 16:33:48,341-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - ================================================
+   2014-12-04 16:33:48,341-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - ================================================
+   2014-12-04 16:33:48,342-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-1W:
+   2014-12-04 16:33:48,344-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:33:48 CST 2014],CurrentMillis:1417682028344
+   2014-12-04 16:33:48,446-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:33:48 CST 2014],CurrentMillis:1417682028446
+   2014-12-04 16:33:52,841-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:33:52 CST 2014],CurrentMillis:1417682032841
+   2014-12-04 16:33:53,431-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 16:33:53 CST 2014],CurrentMillis:1417682033431
+   2014-12-04 16:33:53,431-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[5086],readUsed[590]
+   2014-12-04 16:33:54,004-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-2W:
+   2014-12-04 16:33:54,005-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:33:54 CST 2014],CurrentMillis:1417682034005
+   2014-12-04 16:33:54,032-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:33:54 CST 2014],CurrentMillis:1417682034032
+   2014-12-04 16:34:02,457-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:34:02 CST 2014],CurrentMillis:1417682042457
+   2014-12-04 16:34:03,874-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 16:34:03 CST 2014],CurrentMillis:1417682043874
+   2014-12-04 16:34:03,876-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[9871],readUsed[1418]
+   2014-12-04 16:34:05,935-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-3W:
+   2014-12-04 16:34:05,937-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:34:05 CST 2014],CurrentMillis:1417682045937
+   2014-12-04 16:34:06,036-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:34:06 CST 2014],CurrentMillis:1417682046036
+   2014-12-04 16:34:20,962-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:34:20 CST 2014],CurrentMillis:1417682060962
+   2014-12-04 16:34:24,141-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 16:34:24 CST 2014],CurrentMillis:1417682064140
+   2014-12-04 16:34:24,143-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[18206],readUsed[3179]
+   2014-12-04 16:34:28,948-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-4W:
+   2014-12-04 16:34:28,949-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:34:28 CST 2014],CurrentMillis:1417682068949
+   2014-12-04 16:34:29,008-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:34:29 CST 2014],CurrentMillis:1417682069008
+   2014-12-04 16:34:53,221-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:34:53 CST 2014],CurrentMillis:1417682093221
+   2014-12-04 16:34:59,196-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 16:34:59 CST 2014],CurrentMillis:1417682099196
+   2014-12-04 16:34:59,197-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[30247],readUsed[5973]
+   2014-12-04 16:35:08,219-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-5W:
+   2014-12-04 16:35:08,221-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:35:08 CST 2014],CurrentMillis:1417682108221
+   2014-12-04 16:35:08,406-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:35:08 CST 2014],CurrentMillis:1417682108406
+   2014-12-04 16:35:45,585-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:35:45 CST 2014],CurrentMillis:1417682145585
+   2014-12-04 16:35:55,589-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 16:35:55 CST 2014],CurrentMillis:1417682155589
+   2014-12-04 16:35:55,592-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[47370],readUsed[10004]
+   2014-12-04 16:36:10,906-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-6W:
+   2014-12-04 16:36:10,909-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:36:10 CST 2014],CurrentMillis:1417682170909
+   2014-12-04 16:36:11,102-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:36:11 CST 2014],CurrentMillis:1417682171102
+   2014-12-04 16:37:04,366-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:37:04 CST 2014],CurrentMillis:1417682224366
+   2014-12-04 16:37:19,565-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 16:37:19 CST 2014],CurrentMillis:1417682239565
+   2014-12-04 16:37:19,569-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[68658],readUsed[15199]
+   2014-12-04 16:37:42,433-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-7W:
+   2014-12-04 16:37:42,436-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:37:42 CST 2014],CurrentMillis:1417682262436
+   2014-12-04 16:37:42,495-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:37:42 CST 2014],CurrentMillis:1417682262495
+   2014-12-04 16:39:02,049-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:39:02 CST 2014],CurrentMillis:1417682342049
+   2014-12-04 16:39:27,857-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - EndDate[Thu Dec 04 16:39:27 CST 2014],CurrentMillis:1417682367857
+   2014-12-04 16:39:27,860-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - total used[105421],readUsed[25805]
+   2014-12-04 16:40:03,853-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Step-8W:
+   2014-12-04 16:40:03,858-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - startDate[Thu Dec 04 16:40:03 CST 2014],CurrentMillis:1417682403858
+   2014-12-04 16:40:03,919-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Item traversal Date[Thu Dec 04 16:40:03 CST 2014],CurrentMillis:1417682403919
+   2014-12-04 16:41:47,721-[TS] INFO main com.freud.opc.jeasyopc.perf.SyncOPCPerfTest - Read startDate[Thu Dec 04 16:41:47 CST 2014],CurrentMillis:1417682507721
+   
