@@ -27,7 +27,7 @@ public class OPCTest1 {
 				getEntryValue(CONFIG_USERNAME), getEntryValue(CONFIG_PASSWORD),
 				getEntryValue(CONFIG_DOMAIN));
 
-		/** 通过ProgId获得ClsId，然后获得ClassDetai */
+		/** 通过ProgId获得ClsId，然后获得ClassDetail */
 		// final String cls = serverList
 		// .getClsIdFromProgId("Matrikon.OPC.Simulation.1");
 		//

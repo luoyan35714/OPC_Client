@@ -9,30 +9,30 @@ import javafish.clients.opc.component.OpcItem;
 
 import org.apache.log4j.Logger;
 
-public class Async10OPCPerfTest {
+import com.freud.opc.jeasyopc.perf.listener.JeasyOPCListener;
+
+public class Async20OPCPerfTest {
 
 	private static final int NUMBER = 10000;
 
-	private static final int WAN_NUMBER = 10;
-
-	private static Logger LOGGER = Logger.getLogger(Async10OPCPerfTest.class);
+	private static Logger LOGGER = Logger.getLogger(Async20OPCPerfTest.class);
 
 	private static JEasyOpc opc;
 	private static OpcGroup opcGroup;
 	private static OpcItem item;
 
 	public static void main(String[] args) throws Exception {
-		LOGGER.info("===================Aync Log Start=============================");
+		LOGGER.info("===================Sync Log Start=============================");
 		LOGGER.info("================================================");
 		LOGGER.info("================================================");
 		LOGGER.info("================================================");
-		for (int i = 1; i <= WAN_NUMBER; i++) {
+		for (int i = 1; i <= 1; i++) {
 			testSteps(i);
 		}
 		LOGGER.info("================================================");
 		LOGGER.info("================================================");
 		LOGGER.info("================================================");
-		LOGGER.info("===================Aync Log end=============================");
+		LOGGER.info("===================Sync Log end=============================");
 	}
 
 	private static void testSteps(int count) throws Exception {
@@ -56,37 +56,31 @@ public class Async10OPCPerfTest {
 		LOGGER.info("Item traversal Date[" + new Date() + "],CurrentMillis:"
 				+ System.currentTimeMillis());
 
+		JeasyOPCListener listener = new JeasyOPCListener();
+		opcGroup.addAsynchListener(listener);
+
 		opc.addGroup(opcGroup);
+		opc.start();
 
-		opc.connect();
-		opc.registerGroups();
-
-		synchronized (SyncOPCPerfTest.class) {
-			SyncOPCPerfTest.class.wait(2000);
+		synchronized (listener) {
+			listener.wait(4000);
 		}
 
-		LOGGER.info("Read startDate[" + new Date() + "],CurrentMillis:"
-				+ System.currentTimeMillis());
-		long readStart = System.currentTimeMillis();
+		// LOGGER.info("Read startDate[" + new Date() + "],CurrentMillis:"
+		// + System.currentTimeMillis());
+		// long readStart = System.currentTimeMillis();
+		//
+		// LOGGER.info("EndDate[" + new Date() + "],CurrentMillis:"
+		// + System.currentTimeMillis());
+		//
+		// long end = System.currentTimeMillis();
 
-		opc.asynch10Read(opcGroup);
+		// LOGGER.info("total used[" + (end - start) + "],readUsed["
+		// + (end - readStart) + "]");
 
-		opc.ping();
-		opc.getDownloadGroup();
-
-		LOGGER.info("EndDate[" + new Date() + "],CurrentMillis:"
-				+ System.currentTimeMillis());
-
-		long end = System.currentTimeMillis();
-
-		LOGGER.info("total used[" + (end - start) + "],readUsed["
-				+ (end - readStart) + "]");
-
-		opc.asynch10Unadvise(opcGroup);
-
-		opc.unregisterGroups();
 		opc.terminate();
 
 		JOpc.coUninitialize();
 	}
+
 }

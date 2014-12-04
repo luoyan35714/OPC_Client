@@ -17,7 +17,6 @@
 		</layout>    
 	</appender>    
 	
-	<!-- specify the logging level for loggers from other libraries -->
 	<logger name="com.freud.dcom.utgard.cases.*" additivity="false">    
 		<priority value="info"/>     
 		<appender-ref ref="FILE_OUT" />     

@@ -34,7 +34,7 @@ import org.openscada.opc.dcom.da.impl.OPCItemMgt;
 import org.openscada.opc.dcom.da.impl.OPCServer;
 
 /**
- * 通过Scope遍历OPC连接下的所有Group信息
+ * 异步读取Item
  * 
  * @author Freud
  * 
@@ -42,6 +42,7 @@ import org.openscada.opc.dcom.da.impl.OPCServer;
 public class DCOMTest7 {
 
 	public static void main(String[] args) throws Exception {
+
 		JISystem.setAutoRegisteration(true);
 
 		/**
@@ -69,6 +70,7 @@ public class DCOMTest7 {
 
 		// clean up
 		server.removeGroup(group, true);
+
 	}
 
 	public static void testItems(final OPCServer server,

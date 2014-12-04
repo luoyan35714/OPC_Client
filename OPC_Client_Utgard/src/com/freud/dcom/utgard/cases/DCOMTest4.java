@@ -34,7 +34,7 @@ import org.openscada.opc.dcom.da.impl.OPCServer;
 import org.openscada.opc.dcom.da.impl.OPCSyncIO;
 
 /**
- * 通过Scope遍历OPC连接下的所有Group信息
+ * 同步读取Item
  * 
  * @author Freud
  * 

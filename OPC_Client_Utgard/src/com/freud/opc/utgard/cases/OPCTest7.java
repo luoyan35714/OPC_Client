@@ -37,7 +37,7 @@ public class OPCTest7 {
 
 		/** 同步写入 */
 		item.write(value);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 
 		/** Dump出item的值 */
 		dumpItem(item);
