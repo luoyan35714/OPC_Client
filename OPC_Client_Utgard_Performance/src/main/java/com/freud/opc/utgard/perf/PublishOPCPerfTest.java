@@ -8,6 +8,7 @@ import java.util.concurrent.Executors;
 import org.apache.log4j.Logger;
 import org.openscada.opc.lib.da.AccessBase;
 import org.openscada.opc.lib.da.Async20Access;
+import org.openscada.opc.lib.da.AutoReconnectController;
 import org.openscada.opc.lib.da.DataCallback;
 import org.openscada.opc.lib.da.Item;
 import org.openscada.opc.lib.da.ItemState;
@@ -34,8 +35,9 @@ public class PublishOPCPerfTest {
 
 		Server server = new Server(config(),
 				Executors.newSingleThreadScheduledExecutor());
+		AutoReconnectController controller = new AutoReconnectController(server);
 
-		server.connect();
+		controller.connect();
 
 		AccessBase access = new Async20Access(server, 1000, true);
 
@@ -51,7 +53,7 @@ public class PublishOPCPerfTest {
 		}
 
 		access.bind();
-		Thread.sleep(1000);
+		Thread.sleep(2 * 24 * 60 * 60 * 1000);
 		access.unbind();
 		long end = System.currentTimeMillis();
 		LOGGER.info("EndDate[" + new Date() + "],CurrentMillis:" + end);
