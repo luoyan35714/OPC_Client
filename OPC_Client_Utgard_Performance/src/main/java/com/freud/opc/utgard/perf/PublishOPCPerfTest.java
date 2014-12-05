@@ -17,7 +17,7 @@ public class PublishOPCPerfTest {
 
 	private static Logger LOGGER = Logger.getLogger(PublishOPCPerfTest.class);
 
-	private static final int NUMBER = 10000;
+	private static final int NUMBER = 10;
 	private static final int WAN_NUMBER = 10;
 
 	public static void main(String[] args) throws Exception {

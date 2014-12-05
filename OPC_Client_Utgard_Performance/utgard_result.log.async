@@ -1,0 +1,40 @@
+2014-12-05 09:55:18,294-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-05 09:55:18,294-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 09:55:18 CST 2014],CurrentMillis:1417744518294
+2014-12-05 09:55:22,353-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 09:55:22 CST 2014],CurrentMillis:1417744522353
+2014-12-05 09:55:22,353-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[4059]
+2014-12-05 09:55:57,455-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-2W:
+2014-12-05 09:55:57,455-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 09:55:57 CST 2014],CurrentMillis:1417744557455
+2014-12-05 09:56:05,252-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 09:56:05 CST 2014],CurrentMillis:1417744565252
+2014-12-05 09:56:05,262-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[7797]
+2014-12-05 09:57:19,953-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-3W:
+2014-12-05 09:57:19,953-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 09:57:19 CST 2014],CurrentMillis:1417744639953
+2014-12-05 09:57:31,584-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 09:57:31 CST 2014],CurrentMillis:1417744651584
+2014-12-05 09:57:31,584-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[11631]
+2014-12-05 09:58:06,575-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-4W:
+2014-12-05 09:58:06,575-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 09:58:06 CST 2014],CurrentMillis:1417744686575
+2014-12-05 09:58:21,809-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 09:58:21 CST 2014],CurrentMillis:1417744701809
+2014-12-05 09:58:21,809-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[15234]
+2014-12-05 09:58:25,730-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-5W:
+2014-12-05 09:58:25,740-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 09:58:25 CST 2014],CurrentMillis:1417744705730
+2014-12-05 09:58:45,127-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 09:58:45 CST 2014],CurrentMillis:1417744725127
+2014-12-05 09:58:45,127-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[19397]
+2014-12-05 09:58:51,978-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-6W:
+2014-12-05 09:58:51,988-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 09:58:51 CST 2014],CurrentMillis:1417744731978
+2014-12-05 09:59:15,850-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 09:59:15 CST 2014],CurrentMillis:1417744755850
+2014-12-05 09:59:15,850-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[23872]
+2014-12-05 09:59:22,331-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-7W:
+2014-12-05 09:59:22,341-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 09:59:22 CST 2014],CurrentMillis:1417744762331
+2014-12-05 09:59:50,946-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 09:59:50 CST 2014],CurrentMillis:1417744790946
+2014-12-05 09:59:50,946-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[28615]
+2014-12-05 10:00:49,838-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-8W:
+2014-12-05 10:00:49,848-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 10:00:49 CST 2014],CurrentMillis:1417744849838
+2014-12-05 10:01:23,659-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 10:01:23 CST 2014],CurrentMillis:1417744883659
+2014-12-05 10:01:23,659-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[33821]
+2014-12-05 10:01:27,600-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-9W:
+2014-12-05 10:01:27,600-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 10:01:27 CST 2014],CurrentMillis:1417744887600
+2014-12-05 10:02:06,854-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 10:02:06 CST 2014],CurrentMillis:1417744926844
+2014-12-05 10:02:06,854-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[39244]
+2014-12-05 10:02:09,725-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-10W:
+2014-12-05 10:02:09,725-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Fri Dec 05 10:02:09 CST 2014],CurrentMillis:1417744929725
+2014-12-05 10:02:54,276-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - EndDate[Fri Dec 05 10:02:54 CST 2014],CurrentMillis:1417744974276
+2014-12-05 10:02:54,276-[TS] INFO UtgardSyncReader com.freud.opc.utgard.perf.common.DataCallBackListener - Total Spend:[44551]

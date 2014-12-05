@@ -4,7 +4,6 @@ import static com.freud.opc.utgard.perf.config.ConfigReader.config;
 
 import java.text.MessageFormat;
 import java.util.Date;
-import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
 import org.openscada.opc.lib.da.Group;
@@ -15,8 +14,8 @@ public class SyncOPCPerfTest {
 
 	private static Logger LOGGER = Logger.getLogger(SyncOPCPerfTest.class);
 
-	private static final int NUMBER = 10000;
-	private static final int WAN_NUMBER = 10;
+	private static final int NUMBER = 100;
+	private static final int WAN_NUMBER = 1;
 
 	public static void main(String[] args) throws Exception {
 		for (int i = 1; i <= WAN_NUMBER; i++) {
@@ -30,8 +29,7 @@ public class SyncOPCPerfTest {
 		LOGGER.info("Step-" + count + "W:");
 		LOGGER.info("startDate[" + new Date() + "],CurrentMillis:" + start);
 
-		Server server = new Server(config(),
-				Executors.newSingleThreadScheduledExecutor());
+		Server server = new Server(config(), null);
 
 		server.connect();
 
@@ -57,6 +55,7 @@ public class SyncOPCPerfTest {
 		LOGGER.info("Start Read[" + new Date() + "],CurrentMillis:" + read);
 
 		group.read(true, items);
+
 		long end = System.currentTimeMillis();
 		LOGGER.info("End Read[" + new Date() + "],CurrentMillis:" + end);
 

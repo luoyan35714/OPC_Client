@@ -1,12 +1,5 @@
 package com.freud.opc.utgard.perf.config;
 
-import static com.freud.opc.utgard.perf.config.ConfigReader.CLSID;
-import static com.freud.opc.utgard.perf.config.ConfigReader.DOMAIN;
-import static com.freud.opc.utgard.perf.config.ConfigReader.HOST;
-import static com.freud.opc.utgard.perf.config.ConfigReader.PASSWORD;
-import static com.freud.opc.utgard.perf.config.ConfigReader.USERNAME;
-import static com.freud.opc.utgard.perf.config.ConfigReader.getProp;
-
 import java.io.IOException;
 import java.util.Properties;
 

@@ -18,7 +18,7 @@ import org.openscada.opc.dcom.da.impl.OPCServer;
 
 /**
  * 获取Server的Status信息
- * 
+ * 中文
  * @author Freud
  * 
  */
