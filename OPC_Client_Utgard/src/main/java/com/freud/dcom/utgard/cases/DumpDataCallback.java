@@ -55,6 +55,5 @@ public class DumpDataCallback implements IOPCDataCallback {
 	public void writeComplete(final int transactionId,
 			final int serverGroupHandle, final int masterErrorCode,
 			final ResultSet<Integer> result) {
-		// TODO Auto-generated method stub
 	}
 }

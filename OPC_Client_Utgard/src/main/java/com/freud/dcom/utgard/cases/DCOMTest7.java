@@ -66,16 +66,16 @@ public class DCOMTest7 {
 		OPCGroupStateMgt group = server.addGroup("test", true, 100, 1234, 60,
 				0.0f, 1033);
 
-		testItems(server, group, new String[] { "Saw-toothed Waves.Int2" });
+		testItems(group, new String[] { "Saw-toothed Waves.Int2" });
 
 		// clean up
 		server.removeGroup(group, true);
 
 	}
 
-	public static void testItems(final OPCServer server,
-			final OPCGroupStateMgt group, final String... itemIDs)
-			throws IllegalArgumentException, UnknownHostException, JIException {
+	public static void testItems(final OPCGroupStateMgt group,
+			final String... itemIDs) throws IllegalArgumentException,
+			UnknownHostException, JIException {
 		final OPCItemMgt itemManagement = group.getItemManagement();
 		final List<OPCITEMDEF> items = new ArrayList<OPCITEMDEF>(itemIDs.length);
 		for (final String id : itemIDs) {

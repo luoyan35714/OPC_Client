@@ -1,0 +1,38 @@
+2014-12-08 17:46:17,893-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:46:17,896-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:46:17 CST 2014],CurrentMillis:1418031977893
+2014-12-08 17:47:03,585-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:47:03,587-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:47:03 CST 2014],CurrentMillis:1418032023584
+2014-12-08 17:47:20,032-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:47:20,034-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:47:20 CST 2014],CurrentMillis:1418032040031
+2014-12-08 17:49:16,331-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:49:16,333-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:49:16 CST 2014],CurrentMillis:1418032156330
+2014-12-08 17:51:33,229-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:51:33,232-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:51:33 CST 2014],CurrentMillis:1418032293229
+2014-12-08 17:52:05,824-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:52:05,827-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:52:05 CST 2014],CurrentMillis:1418032325823
+2014-12-08 17:52:17,357-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:52:17,359-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:52:17 CST 2014],CurrentMillis:1418032337357
+2014-12-08 17:52:59,674-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:52:59,679-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:52:59 CST 2014],CurrentMillis:1418032379674
+2014-12-08 17:53:47,539-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:53:47,543-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:53:47 CST 2014],CurrentMillis:1418032427538
+2014-12-08 17:55:53,542-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:55:53,545-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:55:53 CST 2014],CurrentMillis:1418032553542
+2014-12-08 17:55:59,665-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:55:59,667-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:55:59 CST 2014],CurrentMillis:1418032559664
+2014-12-08 17:56:14,868-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:56:14,870-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:56:14 CST 2014],CurrentMillis:1418032574867
+2014-12-08 17:56:29,802-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 17:56:29,804-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 17:56:29 CST 2014],CurrentMillis:1418032589801
+2014-12-08 18:02:27,344-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 18:02:27,346-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 18:02:27 CST 2014],CurrentMillis:1418032947343
+2014-12-08 18:02:56,547-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 18:02:56,549-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 18:02:56 CST 2014],CurrentMillis:1418032976546
+2014-12-08 18:03:11,042-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 18:03:11,045-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 18:03:11 CST 2014],CurrentMillis:1418032991042
+2014-12-08 18:04:08,433-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 18:04:08,435-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 18:04:08 CST 2014],CurrentMillis:1418033048432
+2014-12-08 18:04:43,469-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 18:04:43,472-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 18:04:43 CST 2014],CurrentMillis:1418033083469
+2014-12-08 18:12:54,889-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - Step-1W:
+2014-12-08 18:12:54,891-[TS] INFO main com.freud.opc.utgard.perf.AsyncOPCPerfTest - StartDate[Mon Dec 08 18:12:54 CST 2014],CurrentMillis:1418033574888

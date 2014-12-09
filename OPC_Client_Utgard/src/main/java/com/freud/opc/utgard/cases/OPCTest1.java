@@ -14,7 +14,7 @@ import org.openscada.opc.lib.list.Category;
 import org.openscada.opc.lib.list.ServerList;
 
 /**
- * 获得Server上所有的OPC连接信息
+ * Get all the opc connection info from Server
  * 
  * @author Freud
  * 
@@ -27,7 +27,7 @@ public class OPCTest1 {
 				getEntryValue(CONFIG_USERNAME), getEntryValue(CONFIG_PASSWORD),
 				getEntryValue(CONFIG_DOMAIN));
 
-		/** 通过ProgId获得ClsId，然后获得ClassDetail */
+		/** According the progid get the clsid, then get the classdetail */
 		// final String cls = serverList
 		// .getClsIdFromProgId("Matrikon.OPC.Simulation.1");
 		//

@@ -1,3 +1,1 @@
-2014-12-04 11:46:45,336 INFO  org.openscada.opc.lib.da.Server.connect:109 - Socket timeout: 0 
-2014-12-04 11:46:47,516 INFO  org.openscada.opc.lib.da.Server.cleanup:160 - Destroying DCOM session...
-2014-12-04 11:46:47,518 INFO  org.openscada.opc.lib.da.Server.cleanup:187 - Destroying DCOM session... forked
+2014-12-09 09:49:21,205 INFO  com.freud.dcom.utgard.cases.DCOMTest5.main:67 - test

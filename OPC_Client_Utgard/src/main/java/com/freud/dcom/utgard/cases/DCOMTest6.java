@@ -7,9 +7,6 @@ import static com.freud.opc.utgard.BaseConfiguration.CONFIG_PASSWORD;
 import static com.freud.opc.utgard.BaseConfiguration.CONFIG_USERNAME;
 import static com.freud.opc.utgard.BaseConfiguration.getEntryValue;
 
-import java.util.LinkedList;
-import java.util.List;
-
 import org.jinterop.dcom.common.JIException;
 import org.jinterop.dcom.common.JISystem;
 import org.jinterop.dcom.core.IJIComObject;
@@ -54,7 +51,7 @@ public class DCOMTest6 {
 				0.0f, 1033);
 
 		final OPCItemIO itemIO = server.getItemIOService();
-		queryItems(itemIO, "Saw-toothed Waves.Int");
+		queryItems(itemIO, "Saw-toothed Waves.Int1");
 
 		// clean up
 		server.removeGroup(group, true);
@@ -62,10 +59,12 @@ public class DCOMTest6 {
 
 	public static void queryItems(final OPCItemIO itemIO, final String... items)
 			throws JIException {
-		final List<IORequest> requests = new LinkedList<IORequest>();
-		for (final String item : items) {
-			requests.add(new IORequest(item, 0));
+		final IORequest[] requests = new IORequest[items.length];
+
+		for (int i = 0; i < items.length; i++) {
+			requests[i] = new IORequest(items[i], 0);
 		}
-		itemIO.read(requests.toArray(new IORequest[0]));
+
+		itemIO.read(requests);
 	}
 }

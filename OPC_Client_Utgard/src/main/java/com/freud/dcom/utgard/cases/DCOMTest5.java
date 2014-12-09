@@ -36,7 +36,7 @@ public class DCOMTest5 {
 
 	public static void main(String[] args) throws Exception {
 		JISystem.setAutoRegisteration(true);
-		
+
 		/**
 		 * SessionªÒ»°
 		 */

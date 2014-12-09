@@ -17,8 +17,8 @@ import org.openscada.opc.dcom.da.OPCSERVERSTATUS;
 import org.openscada.opc.dcom.da.impl.OPCServer;
 
 /**
- * 获取Server的Status信息
- * 中文
+ * 获取Server的Status信息 中文
+ * 
  * @author Freud
  * 
  */
@@ -39,6 +39,7 @@ public class DCOMTest1 {
 		final IJIComObject serverObject = comServer.createInstance();
 
 		OPCServer server = new OPCServer(serverObject);
+
 		dumpServerStatus(server);
 
 	}

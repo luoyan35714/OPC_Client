@@ -12,7 +12,9 @@ import org.openscada.opc.lib.da.browser.Leaf;
 import com.freud.opc.utgard.BaseConfiguration;
 
 /**
- * 通过ClsId定位到连接，并将连接下的所有Group和Item打印
+ * 
+ * According the clsid get the connection and print all the group and item
+ * information
  * 
  * @author Freud
  * 
