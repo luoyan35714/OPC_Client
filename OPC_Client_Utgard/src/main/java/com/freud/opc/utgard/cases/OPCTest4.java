@@ -44,7 +44,6 @@ public class OPCTest4 {
 		access.addItem("Random.Real5", new DataCallback() {
 			private int i;
 
-			@Override
 			public void changed(Item item, ItemState itemstate) {
 				System.out.println("[" + (++i) + "],ItemName:[" + item.getId()
 						+ "],value:" + itemstate.getValue());

@@ -3,7 +3,6 @@ package com.freud.opc.utgard.perf;
 import static com.freud.opc.utgard.perf.config.ConfigReader.config;
 
 import java.util.Date;
-import java.util.Map;
 import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
@@ -11,16 +10,14 @@ import org.openscada.opc.dcom.common.KeyedResultSet;
 import org.openscada.opc.dcom.common.ResultSet;
 import org.openscada.opc.dcom.da.IOPCDataCallback;
 import org.openscada.opc.dcom.da.ValueData;
-import org.openscada.opc.lib.da.Async20Access;
 import org.openscada.opc.lib.da.Group;
-import org.openscada.opc.lib.da.Item;
 import org.openscada.opc.lib.da.Server;
 
 public class PublishOPCPerfTest {
 
 	private static Logger LOGGER = Logger.getLogger(PublishOPCPerfTest.class);
 
-	private static final int NUMBER = 10000;
+	//private static final int NUMBER = 10000;
 	private static final int WAN_NUMBER = 1;
 
 	public static void main(String[] args) throws Exception {
@@ -42,27 +39,23 @@ public class PublishOPCPerfTest {
 
 		Group group = server.addGroup("Group");
 
-		Map<String, Item> map = group.addItems("Random.int" + 1);
+		//Map<String, Item> map = group.addItems("Random.int" + 1);
 
 		group.attach(new IOPCDataCallback() {
 
-			@Override
 			public void writeComplete(int i, int j, int k,
 					ResultSet<Integer> resultset) {
 			}
 
-			@Override
 			public void readComplete(int i, int j, int k, int l,
 					KeyedResultSet<Integer, ValueData> keyedresultset) {
 			}
 
-			@Override
 			public void dataChange(int i, int j, int k, int l,
 					KeyedResultSet<Integer, ValueData> keyedresultset) {
 				System.out.println("DataChanged");
 			}
 
-			@Override
 			public void cancelComplete(int i, int j) {
 			}
 		});

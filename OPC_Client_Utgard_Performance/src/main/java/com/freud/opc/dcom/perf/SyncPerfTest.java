@@ -47,8 +47,8 @@ public class SyncPerfTest {
 		OPCGroupStateMgt group = server.addGroup("", true, 1000, 1234, 0, 0.0f,
 				1033);
 
-		//group.getSyncIO().read(source, serverHandles)
-		
+		// group.getSyncIO().read(source, serverHandles)
+
 		OPCITEMDEF item = new OPCITEMDEF();
 
 		item.setActive(true);
@@ -57,18 +57,13 @@ public class SyncPerfTest {
 
 		group.attach(new IOPCDataCallback() {
 
-			@Override
 			public void writeComplete(int arg0, int arg1, int arg2,
 					ResultSet<Integer> arg3) {
 			}
-
-			@Override
 			public void readComplete(int arg0, int arg1, int arg2, int arg3,
 					KeyedResultSet<Integer, ValueData> arg4) {
 
 			}
-
-			@Override
 			public void dataChange(int arg0, int arg1, int arg2, int arg3,
 					KeyedResultSet<Integer, ValueData> items) {
 				for (KeyedResult<Integer, ValueData> item : items) {
@@ -76,8 +71,6 @@ public class SyncPerfTest {
 							+ item.getValue());
 				}
 			}
-
-			@Override
 			public void cancelComplete(int arg0, int arg1) {
 
 			}

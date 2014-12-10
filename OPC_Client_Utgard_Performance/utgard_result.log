@@ -1,12 +1,101 @@
-2014-12-09 10:18:20,882-[TS] INFO main com.freud.opc.utgard.perf.Test - Step-10W:
-2014-12-09 10:18:20,885-[TS] INFO main com.freud.opc.utgard.perf.Test - StartDate[Tue Dec 09 10:18:20 CST 2014],CurrentMillis:1418091500881
-2014-12-09 10:18:38,649-[TS] INFO main com.freud.opc.utgard.perf.Test - Step-10W:
-2014-12-09 10:18:38,651-[TS] INFO main com.freud.opc.utgard.perf.Test - StartDate[Tue Dec 09 10:18:38 CST 2014],CurrentMillis:1418091518648
-2014-12-09 10:19:05,380-[TS] INFO main com.freud.opc.utgard.perf.Test - Step-10W:
-2014-12-09 10:19:05,382-[TS] INFO main com.freud.opc.utgard.perf.Test - StartDate[Tue Dec 09 10:19:05 CST 2014],CurrentMillis:1418091545379
-2014-12-09 10:21:34,695-[TS] INFO main com.freud.opc.utgard.perf.Test - Step-10W:
-2014-12-09 10:21:34,698-[TS] INFO main com.freud.opc.utgard.perf.Test - StartDate[Tue Dec 09 10:21:34 CST 2014],CurrentMillis:1418091694695
-2014-12-09 10:23:48,822-[TS] INFO main com.freud.opc.utgard.perf.Test - Step-10W:
-2014-12-09 10:23:48,824-[TS] INFO main com.freud.opc.utgard.perf.Test - StartDate[Tue Dec 09 10:23:48 CST 2014],CurrentMillis:1418091828821
-2014-12-09 10:27:05,952-[TS] INFO main com.freud.opc.utgard.perf.Test - Step-10W:
-2014-12-09 10:27:05,955-[TS] INFO main com.freud.opc.utgard.perf.Test - StartDate[Tue Dec 09 10:27:05 CST 2014],CurrentMillis:1418092025952
+2014-12-10 17:39:43,078-[TS] INFO Thread-0 com.freud.opc.utgard.perf.AsyncMulti - Step-4000 site:
+2014-12-10 17:39:43,078-[TS] INFO Thread-1 com.freud.opc.utgard.perf.AsyncMulti - Step-8000 site:
+2014-12-10 17:39:43,079-[TS] INFO Thread-3 com.freud.opc.utgard.perf.AsyncMulti - Step-16000 site:
+2014-12-10 17:39:43,081-[TS] INFO Thread-0 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383078
+2014-12-10 17:39:43,082-[TS] INFO Thread-1 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383078
+2014-12-10 17:39:43,085-[TS] INFO Thread-3 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383078
+2014-12-10 17:39:43,086-[TS] INFO Thread-4 com.freud.opc.utgard.perf.AsyncMulti - Step-20000 site:
+2014-12-10 17:39:43,086-[TS] INFO Thread-4 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383086
+2014-12-10 17:39:43,086-[TS] INFO Thread-5 com.freud.opc.utgard.perf.AsyncMulti - Step-24000 site:
+2014-12-10 17:39:43,087-[TS] INFO Thread-5 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383086
+2014-12-10 17:39:43,087-[TS] INFO Thread-7 com.freud.opc.utgard.perf.AsyncMulti - Step-32000 site:
+2014-12-10 17:39:43,087-[TS] INFO Thread-7 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383087
+2014-12-10 17:39:43,088-[TS] INFO Thread-8 com.freud.opc.utgard.perf.AsyncMulti - Step-36000 site:
+2014-12-10 17:39:43,088-[TS] INFO Thread-8 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383088
+2014-12-10 17:39:43,088-[TS] INFO Thread-9 com.freud.opc.utgard.perf.AsyncMulti - Step-40000 site:
+2014-12-10 17:39:43,088-[TS] INFO Thread-9 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383088
+2014-12-10 17:39:43,089-[TS] INFO Thread-2 com.freud.opc.utgard.perf.AsyncMulti - Step-12000 site:
+2014-12-10 17:39:43,089-[TS] INFO Thread-6 com.freud.opc.utgard.perf.AsyncMulti - Step-28000 site:
+2014-12-10 17:39:43,089-[TS] INFO Thread-10 com.freud.opc.utgard.perf.AsyncMulti - Step-44000 site:
+2014-12-10 17:39:43,089-[TS] INFO Thread-14 com.freud.opc.utgard.perf.AsyncMulti - Step-60000 site:
+2014-12-10 17:39:43,090-[TS] INFO Thread-18 com.freud.opc.utgard.perf.AsyncMulti - Step-76000 site:
+2014-12-10 17:39:43,090-[TS] INFO Thread-22 com.freud.opc.utgard.perf.AsyncMulti - Step-92000 site:
+2014-12-10 17:39:43,090-[TS] INFO Thread-26 com.freud.opc.utgard.perf.AsyncMulti - Step-108000 site:
+2014-12-10 17:39:43,090-[TS] INFO Thread-30 com.freud.opc.utgard.perf.AsyncMulti - Step-124000 site:
+2014-12-10 17:39:43,090-[TS] INFO Thread-34 com.freud.opc.utgard.perf.AsyncMulti - Step-140000 site:
+2014-12-10 17:39:43,090-[TS] INFO Thread-38 com.freud.opc.utgard.perf.AsyncMulti - Step-156000 site:
+2014-12-10 17:39:43,090-[TS] INFO Thread-42 com.freud.opc.utgard.perf.AsyncMulti - Step-172000 site:
+2014-12-10 17:39:43,090-[TS] INFO Thread-46 com.freud.opc.utgard.perf.AsyncMulti - Step-188000 site:
+2014-12-10 17:39:43,092-[TS] INFO Thread-46 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,092-[TS] INFO Thread-42 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,092-[TS] INFO Thread-38 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,092-[TS] INFO Thread-34 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,092-[TS] INFO Thread-30 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,092-[TS] INFO Thread-26 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,093-[TS] INFO Thread-22 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,093-[TS] INFO Thread-18 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,093-[TS] INFO Thread-14 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383090
+2014-12-10 17:39:43,093-[TS] INFO Thread-11 com.freud.opc.utgard.perf.AsyncMulti - Step-48000 site:
+2014-12-10 17:39:43,093-[TS] INFO Thread-10 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383093
+2014-12-10 17:39:43,093-[TS] INFO Thread-11 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383093
+2014-12-10 17:39:43,096-[TS] INFO Thread-12 com.freud.opc.utgard.perf.AsyncMulti - Step-52000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-49 com.freud.opc.utgard.perf.AsyncMulti - Step-200000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-47 com.freud.opc.utgard.perf.AsyncMulti - Step-192000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-44 com.freud.opc.utgard.perf.AsyncMulti - Step-180000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-41 com.freud.opc.utgard.perf.AsyncMulti - Step-168000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-39 com.freud.opc.utgard.perf.AsyncMulti - Step-160000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-36 com.freud.opc.utgard.perf.AsyncMulti - Step-148000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-33 com.freud.opc.utgard.perf.AsyncMulti - Step-136000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-31 com.freud.opc.utgard.perf.AsyncMulti - Step-128000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-28 com.freud.opc.utgard.perf.AsyncMulti - Step-116000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-25 com.freud.opc.utgard.perf.AsyncMulti - Step-104000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-23 com.freud.opc.utgard.perf.AsyncMulti - Step-96000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-20 com.freud.opc.utgard.perf.AsyncMulti - Step-84000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-17 com.freud.opc.utgard.perf.AsyncMulti - Step-72000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-15 com.freud.opc.utgard.perf.AsyncMulti - Step-64000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-45 com.freud.opc.utgard.perf.AsyncMulti - Step-184000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-48 com.freud.opc.utgard.perf.AsyncMulti - Step-196000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-13 com.freud.opc.utgard.perf.AsyncMulti - Step-56000 site:
+2014-12-10 17:39:43,096-[TS] INFO Thread-6 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,097-[TS] INFO Thread-13 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-16 com.freud.opc.utgard.perf.AsyncMulti - Step-68000 site:
+2014-12-10 17:39:43,097-[TS] INFO Thread-16 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-19 com.freud.opc.utgard.perf.AsyncMulti - Step-80000 site:
+2014-12-10 17:39:43,097-[TS] INFO Thread-19 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-21 com.freud.opc.utgard.perf.AsyncMulti - Step-88000 site:
+2014-12-10 17:39:43,097-[TS] INFO Thread-21 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-24 com.freud.opc.utgard.perf.AsyncMulti - Step-100000 site:
+2014-12-10 17:39:43,097-[TS] INFO Thread-24 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-27 com.freud.opc.utgard.perf.AsyncMulti - Step-112000 site:
+2014-12-10 17:39:43,098-[TS] INFO Thread-27 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-29 com.freud.opc.utgard.perf.AsyncMulti - Step-120000 site:
+2014-12-10 17:39:43,098-[TS] INFO Thread-29 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-32 com.freud.opc.utgard.perf.AsyncMulti - Step-132000 site:
+2014-12-10 17:39:43,098-[TS] INFO Thread-32 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,099-[TS] INFO Thread-48 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-35 com.freud.opc.utgard.perf.AsyncMulti - Step-144000 site:
+2014-12-10 17:39:43,099-[TS] INFO Thread-35 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-37 com.freud.opc.utgard.perf.AsyncMulti - Step-152000 site:
+2014-12-10 17:39:43,099-[TS] INFO Thread-37 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,099-[TS] INFO Thread-45 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-40 com.freud.opc.utgard.perf.AsyncMulti - Step-164000 site:
+2014-12-10 17:39:43,100-[TS] INFO Thread-40 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,100-[TS] INFO Thread-15 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,096-[TS] INFO Thread-43 com.freud.opc.utgard.perf.AsyncMulti - Step-176000 site:
+2014-12-10 17:39:43,100-[TS] INFO Thread-43 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,101-[TS] INFO Thread-17 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,101-[TS] INFO Thread-20 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,101-[TS] INFO Thread-23 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,102-[TS] INFO Thread-25 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,102-[TS] INFO Thread-28 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,098-[TS] INFO Thread-2 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,102-[TS] INFO Thread-31 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,102-[TS] INFO Thread-33 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,103-[TS] INFO Thread-36 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,103-[TS] INFO Thread-39 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,104-[TS] INFO Thread-41 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,104-[TS] INFO Thread-44 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,104-[TS] INFO Thread-47 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,105-[TS] INFO Thread-49 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+2014-12-10 17:39:43,106-[TS] INFO Thread-12 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Wed Dec 10 17:39:43 CST 2014],CurrentMillis:1418204383096
+

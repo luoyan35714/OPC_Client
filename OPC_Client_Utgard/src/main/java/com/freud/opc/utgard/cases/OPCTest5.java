@@ -45,7 +45,6 @@ public class OPCTest5 {
 
 			private int count;
 
-			@Override
 			public void changed(Item item, ItemState itemstate) {
 				System.out.println("[" + (++count) + "],ItemName:["
 						+ item.getId() + "],value:" + itemstate.getValue());

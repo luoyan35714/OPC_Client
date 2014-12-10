@@ -3,6 +3,8 @@
 	<name>OPC_Client_Utgard_Performance</name>
 	<comment></comment>
 	<projects>
+		<project>org.openscada.opc.dcom</project>
+		<project>org.openscada.opc.lib</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
