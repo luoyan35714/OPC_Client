@@ -6,19 +6,19 @@ import java.util.Date;
 import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
-import org.openscada.opc.dcom.common.KeyedResultSet;
-import org.openscada.opc.dcom.common.ResultSet;
-import org.openscada.opc.dcom.da.IOPCDataCallback;
-import org.openscada.opc.dcom.da.ValueData;
-import org.openscada.opc.lib.da.Group;
+import org.openscada.opc.lib.da.AccessBase;
+import org.openscada.opc.lib.da.Async20Access;
+import org.openscada.opc.lib.da.AutoReconnectController;
+import org.openscada.opc.lib.da.DataCallback;
+import org.openscada.opc.lib.da.Item;
+import org.openscada.opc.lib.da.ItemState;
 import org.openscada.opc.lib.da.Server;
 
 public class PublishOPCPerfTest {
 
 	private static Logger LOGGER = Logger.getLogger(PublishOPCPerfTest.class);
-
-	//private static final int NUMBER = 10000;
-	private static final int WAN_NUMBER = 1;
+	private static final int NUMBER = 4000;
+	private static final int WAN_NUMBER = 10;
 
 	public static void main(String[] args) throws Exception {
 		for (int i = 1; i <= WAN_NUMBER; i++) {
@@ -28,38 +28,23 @@ public class PublishOPCPerfTest {
 
 	private static void testSteps(int count) throws Exception {
 		long start = System.currentTimeMillis();
-
 		LOGGER.info("Step-" + count + "W:");
 		LOGGER.info("StartDate[" + new Date() + "],CurrentMillis:" + start);
-
 		Server server = new Server(config(),
 				Executors.newSingleThreadScheduledExecutor());
-
-		server.connect();
-
-		Group group = server.addGroup("Group");
-
-		//Map<String, Item> map = group.addItems("Random.int" + 1);
-
-		group.attach(new IOPCDataCallback() {
-
-			public void writeComplete(int i, int j, int k,
-					ResultSet<Integer> resultset) {
-			}
-
-			public void readComplete(int i, int j, int k, int l,
-					KeyedResultSet<Integer, ValueData> keyedresultset) {
-			}
-
-			public void dataChange(int i, int j, int k, int l,
-					KeyedResultSet<Integer, ValueData> keyedresultset) {
-				System.out.println("DataChanged");
-			}
-
-			public void cancelComplete(int i, int j) {
-			}
-		});
-
+		AutoReconnectController controller = new AutoReconnectController(server);
+		controller.connect();
+		AccessBase access = new Async20Access(server, 0, true);
+		int limit = count * NUMBER;
+		for (int i = 0; i < limit; i++) {
+			access.addItem("Random.Real" + i, new DataCallback() {
+				public void changed(Item item, ItemState is) {
+				}
+			});
+		}
+		access.bind();
+		Thread.sleep(10 * 1000);
+		access.unbind();
 		long end = System.currentTimeMillis();
 		LOGGER.info("EndDate[" + new Date() + "],CurrentMillis:" + end);
 		LOGGER.info("Total Spend:[" + (end - start) + "]");

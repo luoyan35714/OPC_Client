@@ -5,7 +5,6 @@ import static com.freud.opc.utgard.perf.config.ConfigReader.config;
 import java.util.Date;
 import java.util.concurrent.Executors;
 
-import org.apache.commons.logging.Log;
 import org.apache.log4j.Logger;
 import org.openscada.opc.dcom.common.KeyedResult;
 import org.openscada.opc.dcom.common.KeyedResultSet;
@@ -21,7 +20,7 @@ import org.openscada.opc.lib.da.Server;
 
 public class AsyncMultiThreadTest {
 
-	private static final int count = 50;
+	private static final int count = 1;
 
 	public static void main(String[] args) throws Exception {
 		for (int i = 1; i <= count; i++) {
@@ -34,7 +33,7 @@ class AsyncMulti implements Runnable {
 
 	private static Logger LOGGER = Logger.getLogger(AsyncMulti.class);
 
-	private static final int NUMBER = 4000;
+	private static final int NUMBER = 10000;
 	private int count_number;
 
 	private static long start;
