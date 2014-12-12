@@ -1,0 +1,48 @@
+8W-3
+2014-12-12 16:07:04,800-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [80001] Asynch read total used[2599] s
+2014-12-12 16:07:54,110-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [80001] Asynch read total used[2381] s
+2014-12-12 16:08:12,253-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [80001] Asynch read total used[2625] s
+2014-12-12 16:08:30,710-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [80001] Asynch read total used[2310] s
+2014-12-12 16:09:02,352-[TS] INFO Thread-1 com.freud.opc.utgard.perf.SyncMultiThreadTest - [80001] Asynch read total used[2331] s
+
+9W-3
+2014-12-12 16:09:41,944-[TS] INFO Thread-1 com.freud.opc.utgard.perf.SyncMultiThreadTest - [90000] Asynch read total used[2972] s
+2014-12-12 16:10:02,465-[TS] INFO Thread-1 com.freud.opc.utgard.perf.SyncMultiThreadTest - [90000] Asynch read total used[3371] s
+2014-12-12 16:10:23,425-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [90000] Asynch read total used[3435] s
+2014-12-12 16:10:44,557-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [90000] Asynch read total used[3245] s
+2014-12-12 16:11:05,036-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [90000] Asynch read total used[3023] s
+
+10W-3
+2014-12-12 16:11:53,898-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [100002] Asynch read total used[4187] s
+2014-12-12 16:12:16,078-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [100002] Asynch read total used[3129] s
+2014-12-12 16:12:39,238-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [100002] Asynch read total used[3547] s
+2014-12-12 16:13:03,744-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [100002] Asynch read total used[3678] s
+2014-12-12 16:13:26,430-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [100002] Asynch read total used[3161] s
+
+15W-3
+2014-12-12 16:14:28,781-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [150000] Asynch read total used[5265] s
+2014-12-12 16:15:03,550-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [150000] Asynch read total used[6081] s
+2014-12-12 16:15:37,502-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [150000] Asynch read total used[5865] s
+2014-12-12 16:16:13,128-[TS] INFO Thread-1 com.freud.opc.utgard.perf.SyncMultiThreadTest - [150000] Asynch read total used[7266] s
+2014-12-12 16:16:49,886-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [150000] Asynch read total used[7080] s
+
+20W-3
+2014-12-12 16:18:15,819-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [200001] Asynch read total used[12524] s
+2014-12-12 16:19:07,029-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [200001] Asynch read total used[13811] s
+2014-12-12 16:19:58,526-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [200001] Asynch read total used[11569] s
+2014-12-12 16:22:06,664-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [200001] Asynch read total used[13724] s
+2014-12-12 16:23:00,958-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [200001] Asynch read total used[11061] s
+
+25W-3
+2014-12-12 16:25:25,795-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [250002] Asynch read total used[24443] s
+2014-12-12 16:27:01,758-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [250002] Asynch read total used[37574] s
+2014-12-12 16:31:06,212-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [250002] Asynch read total used[23071] s
+2014-12-12 16:32:22,591-[TS] INFO Thread-0 com.freud.opc.utgard.perf.SyncMultiThreadTest - [250002] Asynch read total used[25557] s
+2014-12-12 16:35:33,209-[TS] INFO Thread-2 com.freud.opc.utgard.perf.SyncMultiThreadTest - [250002] Asynch read total used[29622] s
+
+30W-3
+
+35W-3
+
+40W-3
+

@@ -2,8 +2,6 @@ package com.freud.opc.utgard.perf;
 
 import static com.freud.opc.utgard.perf.config.ConfigReader.config;
 
-import java.util.Date;
-
 import org.apache.log4j.Logger;
 import org.openscada.opc.lib.da.Group;
 import org.openscada.opc.lib.da.Item;
@@ -19,15 +17,17 @@ public class SyncMultiThreadTest {
 
 	public synchronized static void end(long in) {
 		end = in;
-		LOGGER.info("Asynch read total used[" + (end - start) + "] s");
+		LOGGER.info("[" + (count * TestMultiple.NUMBER)
+				+ "] Asynch read total used[" + (end - start) + "] s");
 	}
 
 	private static long start;
 	private static long end;
 
-	private static final int count = 100;
+	private static final int count = 6;
 
 	public static void main(String[] args) throws Exception {
+		LOGGER.info("----------------------");
 		for (int i = 1; i <= count; i++) {
 			new Thread(new TestMultiple(i)).start();
 		}
@@ -38,7 +38,7 @@ class TestMultiple implements Runnable {
 
 	private static Logger LOGGER = Logger.getLogger(TestMultiple.class);
 
-	private static final int NUMBER = 4000;
+	public static final int NUMBER = 25000;
 
 	private int count_number;
 
@@ -60,21 +60,21 @@ class TestMultiple implements Runnable {
 
 		int limit = count_number * NUMBER;
 
-		LOGGER.info("[" + limit + ":]" + "Step-" + limit + ":");
-		LOGGER.info("[" + limit + ":]" + "startDate[" + new Date()
-				+ "],CurrentMillis:" + start);
+		// LOGGER.info("[" + limit + ":]" + "Step-" + limit + ":");
+		// LOGGER.info("[" + limit + ":]" + "startDate[" + new Date()
+		// + "],CurrentMillis:" + start);
 
 		Server server = new Server(config(), null);
 
 		server.connect();
 
-		Group group = server.addGroup();
+		Group group = server.addGroup(count_number + "");
 
 		Item[] items = new Item[NUMBER];
 
 		long createStart = System.currentTimeMillis();
-		LOGGER.info("[" + limit + "W:]" + "Create the items[" + new Date()
-				+ "],CurrentMillis:" + createStart);
+		// LOGGER.info("[" + limit + "W:]" + "Create the items[" + new Date()
+		// + "],CurrentMillis:" + createStart);
 
 		for (int i = (count_number - 1) * NUMBER; i < limit; i++) {
 			Item item = group.addItem("Random.Real" + i);
@@ -82,12 +82,12 @@ class TestMultiple implements Runnable {
 		}
 
 		long createEnd = System.currentTimeMillis();
-		LOGGER.info("[" + limit + "W:]" + "Create finish [" + new Date()
-				+ "],CurrentMillis:" + createEnd);
+		// LOGGER.info("[" + limit + "W:]" + "Create finish [" + new Date()
+		// + "],CurrentMillis:" + createEnd);
 
 		long read = System.currentTimeMillis();
-		LOGGER.info("[" + limit + "W:]" + "Start Read[" + new Date()
-				+ "],CurrentMillis:" + read);
+		// LOGGER.info("[" + limit + "W:]" + "Start Read[" + new Date()
+		// + "],CurrentMillis:" + read);
 		SyncMultiThreadTest.start(read);
 		group.read(true, items);
 
@@ -99,6 +99,7 @@ class TestMultiple implements Runnable {
 		// + "Total[{0}], CreateItem[{1}], Read[{2}]", end - start,
 		// createEnd - createStart, end - read));
 
+		group.clear();
 		group.remove();
 		server.dispose();
 	}
