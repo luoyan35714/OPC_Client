@@ -19,10 +19,25 @@ import org.openscada.opc.lib.da.Item;
 import org.openscada.opc.lib.da.Server;
 
 public class AsyncMultiThreadTest {
+	private static Logger LOGGER = Logger.getLogger(AsyncMultiThreadTest.class);
 
-	private static final int count = 1;
+	public synchronized static void start(long in) {
+		if (start == 0)
+			start = in;
+	}
+
+	public synchronized static void end(long in) {
+		end = in;
+		LOGGER.info("Asynch read total used[" + (end - start) + "] s");
+	}
+
+	private static long start;
+	private static long end;
+
+	private static final int count = 5;
 
 	public static void main(String[] args) throws Exception {
+
 		for (int i = 1; i <= count; i++) {
 			new Thread(new AsyncMulti(i)).start();
 		}
@@ -33,7 +48,7 @@ class AsyncMulti implements Runnable {
 
 	private static Logger LOGGER = Logger.getLogger(AsyncMulti.class);
 
-	private static final int NUMBER = 10000;
+	private static final int NUMBER = 4000;
 	private int count_number;
 
 	private static long start;
@@ -65,6 +80,7 @@ class AsyncMulti implements Runnable {
 			}
 
 			read = System.currentTimeMillis();
+			AsyncMultiThreadTest.start(read);
 			group.attach(new IOPCDataCallback() {
 
 				public void writeComplete(int arg0, int arg1, int arg2,
@@ -84,8 +100,10 @@ class AsyncMulti implements Runnable {
 
 					if (i == NUMBER) {
 						end = System.currentTimeMillis();
-						LOGGER.info("Total Use[" + (end - start)
-								+ "] and Async Read[" + (end - read) + "]");
+						// LOGGER.info("[" + count_number + "]Total Use["
+						// + (end - start) + "] and Async Read["
+						// + (end - read) + "]");
+						AsyncMultiThreadTest.end(end);
 					}
 
 				}
@@ -109,6 +127,7 @@ class AsyncMulti implements Runnable {
 			group.remove();
 
 			server.disconnect();
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

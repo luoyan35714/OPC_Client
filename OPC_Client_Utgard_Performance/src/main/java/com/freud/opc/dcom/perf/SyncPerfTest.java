@@ -60,10 +60,12 @@ public class SyncPerfTest {
 			public void writeComplete(int arg0, int arg1, int arg2,
 					ResultSet<Integer> arg3) {
 			}
+
 			public void readComplete(int arg0, int arg1, int arg2, int arg3,
 					KeyedResultSet<Integer, ValueData> arg4) {
 
 			}
+
 			public void dataChange(int arg0, int arg1, int arg2, int arg3,
 					KeyedResultSet<Integer, ValueData> items) {
 				for (KeyedResult<Integer, ValueData> item : items) {
@@ -71,6 +73,7 @@ public class SyncPerfTest {
 							+ item.getValue());
 				}
 			}
+
 			public void cancelComplete(int arg0, int arg1) {
 
 			}

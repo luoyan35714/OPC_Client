@@ -1,0 +1,328 @@
+2014-12-11 13:52:11,425-[TS] INFO Thread-0 com.freud.opc.utgard.perf.AsyncMulti - Step-4000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-5 com.freud.opc.utgard.perf.AsyncMulti - Step-24000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-3 com.freud.opc.utgard.perf.AsyncMulti - Step-16000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-9 com.freud.opc.utgard.perf.AsyncMulti - Step-40000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-4 com.freud.opc.utgard.perf.AsyncMulti - Step-20000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-6 com.freud.opc.utgard.perf.AsyncMulti - Step-28000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-17 com.freud.opc.utgard.perf.AsyncMulti - Step-72000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-21 com.freud.opc.utgard.perf.AsyncMulti - Step-88000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-25 com.freud.opc.utgard.perf.AsyncMulti - Step-104000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-29 com.freud.opc.utgard.perf.AsyncMulti - Step-120000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-33 com.freud.opc.utgard.perf.AsyncMulti - Step-136000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-34 com.freud.opc.utgard.perf.AsyncMulti - Step-140000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-7 com.freud.opc.utgard.perf.AsyncMulti - Step-32000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-2 com.freud.opc.utgard.perf.AsyncMulti - Step-12000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-1 com.freud.opc.utgard.perf.AsyncMulti - Step-8000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-9 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131425
+2014-12-11 13:52:11,440-[TS] INFO Thread-37 com.freud.opc.utgard.perf.AsyncMulti - Step-152000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-41 com.freud.opc.utgard.perf.AsyncMulti - Step-168000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-30 com.freud.opc.utgard.perf.AsyncMulti - Step-124000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-3 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,425-[TS] INFO Thread-6 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131425
+2014-12-11 13:52:11,425-[TS] INFO Thread-26 com.freud.opc.utgard.perf.AsyncMulti - Step-108000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-30 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-26 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,425-[TS] INFO Thread-22 com.freud.opc.utgard.perf.AsyncMulti - Step-92000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-22 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,425-[TS] INFO Thread-17 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131425
+2014-12-11 13:52:11,425-[TS] INFO Thread-18 com.freud.opc.utgard.perf.AsyncMulti - Step-76000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-14 com.freud.opc.utgard.perf.AsyncMulti - Step-60000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-5 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-14 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,425-[TS] INFO Thread-10 com.freud.opc.utgard.perf.AsyncMulti - Step-44000 site:
+2014-12-11 13:52:11,425-[TS] INFO Thread-4 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131425
+2014-12-11 13:52:11,425-[TS] INFO Thread-0 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131425
+2014-12-11 13:52:11,425-[TS] INFO Thread-13 com.freud.opc.utgard.perf.AsyncMulti - Step-56000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-46 com.freud.opc.utgard.perf.AsyncMulti - Step-188000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-45 com.freud.opc.utgard.perf.AsyncMulti - Step-184000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-49 com.freud.opc.utgard.perf.AsyncMulti - Step-200000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-50 com.freud.opc.utgard.perf.AsyncMulti - Step-204000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-50 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-12 com.freud.opc.utgard.perf.AsyncMulti - Step-52000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-12 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-15 com.freud.opc.utgard.perf.AsyncMulti - Step-64000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-37 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-1 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-2 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-99 com.freud.opc.utgard.perf.AsyncMulti - Step-400000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-99 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-19 com.freud.opc.utgard.perf.AsyncMulti - Step-80000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-27 com.freud.opc.utgard.perf.AsyncMulti - Step-112000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-96 com.freud.opc.utgard.perf.AsyncMulti - Step-388000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-34 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-33 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-98 com.freud.opc.utgard.perf.AsyncMulti - Step-396000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-95 com.freud.opc.utgard.perf.AsyncMulti - Step-384000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-29 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-95 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-97 com.freud.opc.utgard.perf.AsyncMulti - Step-392000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-25 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-97 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-93 com.freud.opc.utgard.perf.AsyncMulti - Step-376000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-89 com.freud.opc.utgard.perf.AsyncMulti - Step-360000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-94 com.freud.opc.utgard.perf.AsyncMulti - Step-380000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-93 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-94 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-90 com.freud.opc.utgard.perf.AsyncMulti - Step-364000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-92 com.freud.opc.utgard.perf.AsyncMulti - Step-372000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-86 com.freud.opc.utgard.perf.AsyncMulti - Step-348000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-91 com.freud.opc.utgard.perf.AsyncMulti - Step-368000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-91 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-87 com.freud.opc.utgard.perf.AsyncMulti - Step-352000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-87 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-88 com.freud.opc.utgard.perf.AsyncMulti - Step-356000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-98 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-88 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-16 com.freud.opc.utgard.perf.AsyncMulti - Step-68000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-85 com.freud.opc.utgard.perf.AsyncMulti - Step-344000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-84 com.freud.opc.utgard.perf.AsyncMulti - Step-340000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-84 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-20 com.freud.opc.utgard.perf.AsyncMulti - Step-84000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-49 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-45 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-46 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-83 com.freud.opc.utgard.perf.AsyncMulti - Step-336000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-83 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-23 com.freud.opc.utgard.perf.AsyncMulti - Step-96000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-81 com.freud.opc.utgard.perf.AsyncMulti - Step-328000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-82 com.freud.opc.utgard.perf.AsyncMulti - Step-332000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-23 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-82 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-80 com.freud.opc.utgard.perf.AsyncMulti - Step-324000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-80 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-10 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-79 com.freud.opc.utgard.perf.AsyncMulti - Step-320000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-79 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-31 com.freud.opc.utgard.perf.AsyncMulti - Step-128000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-78 com.freud.opc.utgard.perf.AsyncMulti - Step-316000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-31 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-81 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-24 com.freud.opc.utgard.perf.AsyncMulti - Step-100000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-24 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-77 com.freud.opc.utgard.perf.AsyncMulti - Step-312000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-20 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-77 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-28 com.freud.opc.utgard.perf.AsyncMulti - Step-116000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-76 com.freud.opc.utgard.perf.AsyncMulti - Step-308000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-32 com.freud.opc.utgard.perf.AsyncMulti - Step-132000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-32 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-75 com.freud.opc.utgard.perf.AsyncMulti - Step-304000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-86 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-74 com.freud.opc.utgard.perf.AsyncMulti - Step-300000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-92 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-36 com.freud.opc.utgard.perf.AsyncMulti - Step-148000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-72 com.freud.opc.utgard.perf.AsyncMulti - Step-292000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-73 com.freud.opc.utgard.perf.AsyncMulti - Step-296000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-72 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-71 com.freud.opc.utgard.perf.AsyncMulti - Step-288000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-89 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-71 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-68 com.freud.opc.utgard.perf.AsyncMulti - Step-276000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-67 com.freud.opc.utgard.perf.AsyncMulti - Step-272000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-64 com.freud.opc.utgard.perf.AsyncMulti - Step-260000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-67 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-69 com.freud.opc.utgard.perf.AsyncMulti - Step-280000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-63 com.freud.opc.utgard.perf.AsyncMulti - Step-256000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-35 com.freud.opc.utgard.perf.AsyncMulti - Step-144000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-63 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-35 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-60 com.freud.opc.utgard.perf.AsyncMulti - Step-244000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-70 com.freud.opc.utgard.perf.AsyncMulti - Step-284000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-60 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-66 com.freud.opc.utgard.perf.AsyncMulti - Step-268000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-65 com.freud.opc.utgard.perf.AsyncMulti - Step-264000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-65 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-62 com.freud.opc.utgard.perf.AsyncMulti - Step-252000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-70 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-61 com.freud.opc.utgard.perf.AsyncMulti - Step-248000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-59 com.freud.opc.utgard.perf.AsyncMulti - Step-240000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-59 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-73 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-39 com.freud.opc.utgard.perf.AsyncMulti - Step-160000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-58 com.freud.opc.utgard.perf.AsyncMulti - Step-236000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-58 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-43 com.freud.opc.utgard.perf.AsyncMulti - Step-176000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-57 com.freud.opc.utgard.perf.AsyncMulti - Step-232000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-57 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-36 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-44 com.freud.opc.utgard.perf.AsyncMulti - Step-180000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-44 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-56 com.freud.opc.utgard.perf.AsyncMulti - Step-228000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-40 com.freud.opc.utgard.perf.AsyncMulti - Step-164000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-55 com.freud.opc.utgard.perf.AsyncMulti - Step-224000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-75 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-47 com.freud.opc.utgard.perf.AsyncMulti - Step-192000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-55 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-47 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-54 com.freud.opc.utgard.perf.AsyncMulti - Step-220000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-51 com.freud.opc.utgard.perf.AsyncMulti - Step-208000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-53 com.freud.opc.utgard.perf.AsyncMulti - Step-216000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-51 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-48 com.freud.opc.utgard.perf.AsyncMulti - Step-196000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-53 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-52 com.freud.opc.utgard.perf.AsyncMulti - Step-212000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-48 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-11 com.freud.opc.utgard.perf.AsyncMulti - Step-48000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-42 com.freud.opc.utgard.perf.AsyncMulti - Step-172000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-76 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-42 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-38 com.freud.opc.utgard.perf.AsyncMulti - Step-156000 site:
+2014-12-11 13:52:11,440-[TS] INFO Thread-8 com.freud.opc.utgard.perf.AsyncMulti - Step-36000 site:
+2014-12-11 13:52:11,456-[TS] INFO Thread-8 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-78 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-52 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-43 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-62 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-69 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-64 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-68 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-90 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-74 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-16 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-28 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-85 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-15 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-19 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-27 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-21 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-96 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-38 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-7 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-41 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-18 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,440-[TS] INFO Thread-13 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-11 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-54 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-40 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-56 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-39 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-61 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:52:11,456-[TS] INFO Thread-66 com.freud.opc.utgard.perf.AsyncMulti - StartDate[Thu Dec 11 13:52:11 CST 2014],CurrentMillis:1418277131440
+2014-12-11 13:53:32,241-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53526):R(53529)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[1838] s
+2014-12-11 13:53:32,241-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53522):R(53524)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[1838] s
+2014-12-11 13:53:32,256-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53528):R(53530)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[1853] s
+2014-12-11 13:53:32,289-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53520):R(53523)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[1886] s
+2014-12-11 13:53:32,538-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53532):R(53534)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[2135] s
+2014-12-11 13:53:32,852-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53535):R(53536)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[2449] s
+2014-12-11 13:53:33,195-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53541):R(53542)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[2792] s
+2014-12-11 13:53:33,320-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53538):R(53539)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[2917] s
+2014-12-11 13:53:33,352-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53553):R(53556)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[2949] s
+2014-12-11 13:53:33,446-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53553):R(53556)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3043] s
+2014-12-11 13:53:33,524-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53544):R(53545)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3121] s
+2014-12-11 13:53:33,643-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53555):R(53557)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3240] s
+2014-12-11 13:53:33,752-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53561):R(53563)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3349] s
+2014-12-11 13:53:33,815-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53565):R(53566)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3412] s
+2014-12-11 13:53:33,846-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53560):R(53562)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3443] s
+2014-12-11 13:53:33,955-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53561):R(53563)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3552] s
+2014-12-11 13:53:33,971-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53560):R(53562)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3568] s
+2014-12-11 13:53:34,018-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53565):R(53566)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[3615] s
+2014-12-11 13:53:34,532-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53576):R(53578)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4129] s
+2014-12-11 13:53:34,911-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53575):R(53577)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4508] s
+2014-12-11 13:53:34,911-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53583):R(53584)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4508] s
+2014-12-11 13:53:34,911-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53586):R(53587)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4508] s
+2014-12-11 13:53:34,942-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53570):R(53571)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4539] s
+2014-12-11 13:53:35,004-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53580):R(53581)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4601] s
+2014-12-11 13:53:35,004-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53569):R(53572)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4601] s
+2014-12-11 13:53:35,067-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53583):R(53584)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4664] s
+2014-12-11 13:53:35,129-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53586):R(53587)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[4726] s
+2014-12-11 13:53:36,402-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53602):R(53604)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[5999] s
+2014-12-11 13:53:36,511-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53609):R(53612)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6108] s
+2014-12-11 13:53:36,527-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53592):R(53593)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6124] s
+2014-12-11 13:53:36,621-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53600):R(53603)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6218] s
+2014-12-11 13:53:36,730-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53614):R(53615)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6327] s
+2014-12-11 13:53:36,730-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53620):R(53622)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6327] s
+2014-12-11 13:53:36,746-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53610):R(53611)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6343] s
+2014-12-11 13:53:36,762-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53618):R(53621)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6359] s
+2014-12-11 13:53:36,777-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53598):R(53601)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6374] s
+2014-12-11 13:53:36,918-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53620):R(53622)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6515] s
+2014-12-11 13:53:36,964-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53614):R(53615)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6561] s
+2014-12-11 13:53:37,075-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53618):R(53621)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6672] s
+2014-12-11 13:53:37,246-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53624):R(53626)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6843] s
+2014-12-11 13:53:37,277-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53629):R(53630)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6874] s
+2014-12-11 13:53:37,371-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53629):R(53630)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[6968] s
+2014-12-11 13:53:37,558-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53641):R(53645)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[7155] s
+2014-12-11 13:53:37,731-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53648):R(53651)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[7328] s
+2014-12-11 13:53:37,824-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53644):R(53647)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[7421] s
+2014-12-11 13:53:38,074-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53659):R(53664)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[7671] s
+2014-12-11 13:53:38,110-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53654):R(53660)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[7707] s
+2014-12-11 13:53:38,251-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53659):R(53664)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[7848] s
+2014-12-11 13:53:38,344-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53670):R(53671)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[7941] s
+2014-12-11 13:53:38,422-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53663):R(53665)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[8019] s
+2014-12-11 13:53:38,531-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53667):R(53668)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[8128] s
+2014-12-11 13:53:38,547-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53674):R(53675)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[8144] s
+2014-12-11 13:53:38,860-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53667):R(53668)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[8457] s
+2014-12-11 13:53:38,876-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53670):R(53671)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[8473] s
+2014-12-11 13:53:39,298-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53677):R(53678)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[8895] s
+2014-12-11 13:53:39,329-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53692):R(53695)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[8926] s
+2014-12-11 13:53:39,391-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53697):R(53704)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[8988] s
+2014-12-11 13:53:39,798-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53727):R(53728)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[9395] s
+2014-12-11 13:53:39,938-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53702):R(53705)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[9535] s
+2014-12-11 13:53:40,392-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53711):R(53713)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[9989] s
+2014-12-11 13:53:40,439-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53674):R(53675)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10036] s
+2014-12-11 13:53:40,470-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53724):R(53726)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10067] s
+2014-12-11 13:53:40,501-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53694):R(53698)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10098] s
+2014-12-11 13:53:40,501-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53715):R(53716)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10098] s
+2014-12-11 13:53:40,579-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53680):R(53681)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10176] s
+2014-12-11 13:53:40,814-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53691):R(53693)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10411] s
+2014-12-11 13:53:40,830-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53701):R(53703)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10427] s
+2014-12-11 13:53:40,876-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53718):R(53719)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10473] s
+2014-12-11 13:53:40,970-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53722):R(53723)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10567] s
+2014-12-11 13:53:41,017-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53711):R(53713)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10614] s
+2014-12-11 13:53:41,032-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53708):R(53712)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10629] s
+2014-12-11 13:53:41,032-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53715):R(53716)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10629] s
+2014-12-11 13:53:41,048-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53736):R(53737)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10645] s
+2014-12-11 13:53:41,095-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53708):R(53712)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10692] s
+2014-12-11 13:53:41,142-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53718):R(53719)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10739] s
+2014-12-11 13:53:41,188-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53722):R(53723)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10785] s
+2014-12-11 13:53:41,360-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53724):R(53726)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[10957] s
+2014-12-11 13:53:41,455-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53727):R(53728)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11052] s
+2014-12-11 13:53:41,548-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53755):R(53757)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11145] s
+2014-12-11 13:53:41,853-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53736):R(53737)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11450] s
+2014-12-11 13:53:41,931-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53772):R(53773)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11528] s
+2014-12-11 13:53:41,946-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53768):R(53769)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11543] s
+2014-12-11 13:53:41,946-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53758):R(53760)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11543] s
+2014-12-11 13:53:42,024-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53750):R(53751)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11621] s
+2014-12-11 13:53:42,024-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53762):R(53763)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11621] s
+2014-12-11 13:53:42,040-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53765):R(53766)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11637] s
+2014-12-11 13:53:42,056-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53755):R(53757)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11653] s
+2014-12-11 13:53:42,071-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53758):R(53760)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11668] s
+2014-12-11 13:53:42,149-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53762):R(53763)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11746] s
+2014-12-11 13:53:42,196-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53754):R(53759)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11793] s
+2014-12-11 13:53:42,258-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53754):R(53759)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[11855] s
+2014-12-11 13:53:42,622-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53765):R(53766)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[12219] s
+2014-12-11 13:53:42,892-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53768):R(53769)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[12489] s
+2014-12-11 13:53:42,892-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53781):R(53782)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[12489] s
+2014-12-11 13:53:42,939-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53777):R(53778)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[12536] s
+2014-12-11 13:53:42,986-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53786):R(53788)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[12583] s
+2014-12-11 13:53:43,017-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53772):R(53773)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[12614] s
+2014-12-11 13:53:43,079-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53781):R(53782)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[12676] s
+2014-12-11 13:53:43,454-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53777):R(53778)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13051] s
+2014-12-11 13:53:43,529-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53786):R(53788)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13126] s
+2014-12-11 13:53:43,545-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53793):R(53794)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13142] s
+2014-12-11 13:53:43,545-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53784):R(53787)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13142] s
+2014-12-11 13:53:43,607-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53793):R(53794)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13204] s
+2014-12-11 13:53:43,764-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53784):R(53787)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13361] s
+2014-12-11 13:53:43,795-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53796):R(53797)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13392] s
+2014-12-11 13:53:43,873-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53806):R(53807)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13470] s
+2014-12-11 13:53:43,982-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53822):R(53825)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13579] s
+2014-12-11 13:53:43,998-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53816):R(53817)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13595] s
+2014-12-11 13:53:44,060-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53816):R(53817)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13657] s
+2014-12-11 13:53:44,294-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53824):R(53830)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13891] s
+2014-12-11 13:53:44,310-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53810):R(53812)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13907] s
+2014-12-11 13:53:44,341-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53811):R(53813)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[13938] s
+2014-12-11 13:53:45,047-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53868):R(53870)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14644] s
+2014-12-11 13:53:45,250-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53843):R(53844)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14847] s
+2014-12-11 13:53:45,266-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53873):R(53874)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14863] s
+2014-12-11 13:53:45,297-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53854):R(53855)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14894] s
+2014-12-11 13:53:45,344-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53849):R(53853)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14941] s
+2014-12-11 13:53:45,344-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53863):R(53864)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14941] s
+2014-12-11 13:53:45,344-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53822):R(53825)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14941] s
+2014-12-11 13:53:45,391-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53857):R(53860)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14988] s
+2014-12-11 13:53:45,391-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53832):R(53833)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[14988] s
+2014-12-11 13:53:45,406-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53835):R(53836)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[15003] s
+2014-12-11 13:53:45,453-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53840):R(53841)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[15050] s
+2014-12-11 13:53:45,453-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53859):R(53861)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[15050] s
+2014-12-11 13:53:45,469-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53867):R(53869)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[15066] s
+2014-12-11 13:53:45,469-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53850):R(53851)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[15066] s
+2014-12-11 13:53:45,593-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53885):R(53887)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[15190] s
+2014-12-11 13:53:45,737-[TS] INFO jI_RemUnknown[00000000-0000-0000-c000-000000000046 , L(53886):R(53888)] com.freud.opc.utgard.perf.AsyncMultiThreadTest - Asynch read total used[15334] s

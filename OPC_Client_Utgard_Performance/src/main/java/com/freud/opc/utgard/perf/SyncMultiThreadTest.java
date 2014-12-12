@@ -2,7 +2,6 @@ package com.freud.opc.utgard.perf;
 
 import static com.freud.opc.utgard.perf.config.ConfigReader.config;
 
-import java.text.MessageFormat;
 import java.util.Date;
 
 import org.apache.log4j.Logger;
@@ -11,9 +10,25 @@ import org.openscada.opc.lib.da.Item;
 import org.openscada.opc.lib.da.Server;
 
 public class SyncMultiThreadTest {
+	private static Logger LOGGER = Logger.getLogger(SyncMultiThreadTest.class);
+
+	public synchronized static void start(long in) {
+		if (start == 0)
+			start = in;
+	}
+
+	public synchronized static void end(long in) {
+		end = in;
+		LOGGER.info("Asynch read total used[" + (end - start) + "] s");
+	}
+
+	private static long start;
+	private static long end;
+
+	private static final int count = 100;
 
 	public static void main(String[] args) throws Exception {
-		for (int i = 1; i <= 20; i++) {
+		for (int i = 1; i <= count; i++) {
 			new Thread(new TestMultiple(i)).start();
 		}
 	}
@@ -23,7 +38,7 @@ class TestMultiple implements Runnable {
 
 	private static Logger LOGGER = Logger.getLogger(TestMultiple.class);
 
-	private static final int NUMBER = 20000;
+	private static final int NUMBER = 4000;
 
 	private int count_number;
 
@@ -45,8 +60,8 @@ class TestMultiple implements Runnable {
 
 		int limit = count_number * NUMBER;
 
-		LOGGER.info("[" + limit + "W:]" + "Step-" + limit + "W:");
-		LOGGER.info("[" + limit + "W:]" + "startDate[" + new Date()
+		LOGGER.info("[" + limit + ":]" + "Step-" + limit + ":");
+		LOGGER.info("[" + limit + ":]" + "startDate[" + new Date()
 				+ "],CurrentMillis:" + start);
 
 		Server server = new Server(config(), null);
@@ -73,16 +88,16 @@ class TestMultiple implements Runnable {
 		long read = System.currentTimeMillis();
 		LOGGER.info("[" + limit + "W:]" + "Start Read[" + new Date()
 				+ "],CurrentMillis:" + read);
-
+		SyncMultiThreadTest.start(read);
 		group.read(true, items);
 
 		long end = System.currentTimeMillis();
-		LOGGER.info("[" + limit + "W:]" + "End Read[" + new Date()
-				+ "],CurrentMillis:" + end);
-
-		LOGGER.info(MessageFormat.format("[" + limit + "W:]"
-				+ "Total[{0}], CreateItem[{1}], Read[{2}]", end - start,
-				createEnd - createStart, end - read));
+		// LOGGER.info("[" + limit + "W:]" + "End Read[" + new Date()
+		// + "],CurrentMillis:" + end);
+		SyncMultiThreadTest.end(end);
+		// LOGGER.info(MessageFormat.format("[" + limit + "W:]"
+		// + "Total[{0}], CreateItem[{1}], Read[{2}]", end - start,
+		// createEnd - createStart, end - read));
 
 		group.remove();
 		server.dispose();
