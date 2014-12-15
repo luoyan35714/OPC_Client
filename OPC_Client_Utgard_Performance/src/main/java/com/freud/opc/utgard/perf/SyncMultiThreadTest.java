@@ -16,15 +16,17 @@ public class SyncMultiThreadTest {
 	}
 
 	public synchronized static void end(long in) {
+
 		end = in;
 		LOGGER.info("[" + (count * TestMultiple.NUMBER)
 				+ "] Asynch read total used[" + (end - start) + "] s");
+
 	}
 
 	private static long start;
 	private static long end;
 
-	private static final int count = 6;
+	private static final int count = 40;
 
 	public static void main(String[] args) throws Exception {
 		LOGGER.info("----------------------");
@@ -38,7 +40,7 @@ class TestMultiple implements Runnable {
 
 	private static Logger LOGGER = Logger.getLogger(TestMultiple.class);
 
-	public static final int NUMBER = 25000;
+	public static final int NUMBER = 10000;
 
 	private int count_number;
 

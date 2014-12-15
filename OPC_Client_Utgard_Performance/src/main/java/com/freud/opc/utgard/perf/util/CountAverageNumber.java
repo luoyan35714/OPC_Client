@@ -14,7 +14,7 @@ import java.util.Map.Entry;
 
 public class CountAverageNumber {
 
-	private static int i = 5;
+	private static int i = 6;
 
 	public static void main(String[] args) throws Exception {
 		Map<Integer, List<Integer>> map = new HashMap<Integer, List<Integer>>();
