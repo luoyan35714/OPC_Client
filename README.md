@@ -24,3 +24,6 @@ Also for the real produce environment, there's two example for <b>performance</b
 + `书籍` OPC开发参考书籍
 + `学习笔记` 个人OPC学习笔记和一个测试结果文档`OPC压力测试结果统计`
 + `安装文件` 一个OPC Server 模拟器 ·Matrikon Simulation OPC Server·
+
+##学习笔记
++ [个人学习OPC学习笔记](http://www.hifreud.com/tag/#OPC-ref)
