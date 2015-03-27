@@ -3,7 +3,7 @@ package com.freud.opc.jeasyopc;
 import javafish.clients.opc.browser.JOpcBrowser;
 
 /**
- * 通过Branch名字查找所有Item
+ * 閫氳繃Branch鍚嶅瓧鏌ユ壘鎵�鏈塈tem
  * 
  * @author Freud
  * 

@@ -5,7 +5,7 @@ import javafish.clients.opc.component.OpcGroup;
 import javafish.clients.opc.component.OpcItem;
 
 /**
- * �첽��дItemֵ
+ * 异步读写Item值
  * 
  * @author Freud
  * 

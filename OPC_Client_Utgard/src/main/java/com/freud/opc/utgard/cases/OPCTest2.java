@@ -29,16 +29,16 @@ public class OPCTest2 {
 
 		server.connect();
 
-		/** »ñµÃOPCÁ¬½ÓÏÂËùÓĞµÄGroupºÍItem */
+		/** è·å¾—OPCè¿æ¥ä¸‹æ‰€æœ‰çš„Groupå’ŒItem */
 		dumpTree(server.getTreeBrowser().browse(), 0);
-		/** »ñµÃOPCÏÂËùÓĞµÄItem */
+		/** è·å¾—OPCä¸‹æ‰€æœ‰çš„Item */
 		dumpFlat(server.getFlatBrowser());
 
 		server.disconnect();
 	}
 
 	/**
-	 * ±éÀúFlat½á¹¹µÄËùÓĞItemÖµ
+	 * éå†Flatç»“æ„çš„æ‰€æœ‰Itemå€¼
 	 * 
 	 * @param browser
 	 * @throws IllegalArgumentException
@@ -53,7 +53,7 @@ public class OPCTest2 {
 	}
 
 	/**
-	 * ±éÀúTree½á¹¹
+	 * éå†Treeç»“æ„
 	 * 
 	 * @param branch
 	 * @param level
@@ -78,7 +78,7 @@ public class OPCTest2 {
 	}
 
 	/**
-	 * ´òÓ¡Item
+	 * æ‰“å°Item
 	 * 
 	 * @param leaf
 	 */
@@ -88,7 +88,7 @@ public class OPCTest2 {
 	}
 
 	/**
-	 * ´òÓ¡Group
+	 * æ‰“å°Group
 	 * 
 	 * @param branch
 	 */

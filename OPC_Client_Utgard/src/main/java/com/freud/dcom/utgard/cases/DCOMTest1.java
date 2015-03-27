@@ -17,7 +17,7 @@ import org.openscada.opc.dcom.da.OPCSERVERSTATUS;
 import org.openscada.opc.dcom.da.impl.OPCServer;
 
 /**
- * 获取Server的Status信息 中文
+ * 鑾峰彇Server鐨凷tatus淇℃伅 涓枃
  * 
  * @author Freud
  * 

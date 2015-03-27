@@ -9,7 +9,7 @@ import javafish.clients.opc.exception.SynchReadException;
 import javafish.clients.opc.variant.Variant;
 
 /**
- * ¿ÕÖµÊ¾Àý
+ * ç©ºå€¼ç¤ºä¾‹
  * 
  * @author Freud
  * 

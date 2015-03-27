@@ -5,7 +5,7 @@ import javafish.clients.opc.component.OpcGroup;
 import javafish.clients.opc.component.OpcItem;
 
 /**
- * Í¬²½¶ÁÈ¡Group
+ * åŒæ­¥è¯»å–Group
  * 
  * @author Freud
  * 
@@ -44,11 +44,11 @@ public class JeasyopcTest06 {
 		int cycles = 30;
 		int acycle = 0;
 		/**
-		 * ÉèÖÃ¶ÁÈ¡30´Î
+		 * è®¾ç½®è¯»å–30æ¬¡
 		 */
 		while (acycle++ < cycles) {
 			/**
-			 * ÉèÖÃÃ¿2ÃëÖÓ¶ÁÈ¡Ò»´Î
+			 * è®¾ç½®æ¯2ç§’é’Ÿè¯»å–ä¸€æ¬¡
 			 */
 			synchronized (JeasyopcTest06.class) {
 				JeasyopcTest06.class.wait(2000);

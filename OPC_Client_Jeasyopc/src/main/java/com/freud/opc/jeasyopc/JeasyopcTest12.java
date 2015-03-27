@@ -4,7 +4,7 @@ import javafish.clients.opc.component.OpcGroup;
 import javafish.clients.opc.component.OpcItem;
 
 /**
- * Group¿ËÂ¡
+ * Groupå…‹éš†
  * 
  * @author Freud
  * 

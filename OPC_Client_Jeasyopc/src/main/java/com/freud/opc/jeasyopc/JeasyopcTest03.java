@@ -3,7 +3,7 @@ package com.freud.opc.jeasyopc;
 import javafish.clients.opc.browser.JOpcBrowser;
 
 /**
- * 查找某Server下的所有OPC server连接
+ * 鏌ユ壘鏌怱erver涓嬬殑鎵�鏈塐PC server杩炴帴
  * 
  * @author Freud
  * 

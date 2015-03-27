@@ -11,7 +11,7 @@ import org.openscada.opc.lib.da.Server;
 import com.freud.opc.utgard.BaseConfiguration;
 
 /**
- * Òì²½Ğ´Èë
+ * å¼‚æ­¥å†™å…¥
  * 
  * @author Freud
  * 
@@ -27,18 +27,18 @@ public class OPCTest8 {
 
 		server.connect();
 
-		/** ¹¹ÔìĞ´ÈëÊı¾İ */
+		/** æ„é€ å†™å…¥æ•°æ® */
 		final Float[] integerData = new Float[] { 1202f, 1203f, 1204f };
 		final JIArray array = new JIArray(integerData, false);
 		final JIVariant value = new JIVariant(array);
 
 		final Item item = server.addGroup().addItem("Square Waves.Real4");
 
-		/** Í¬²½Ğ´Èë */
+		/** åŒæ­¥å†™å…¥ */
 		item.write(value);
 		Thread.sleep(2000);
 
-		/** Dump³öitemµÄÖµ */
+		/** Dumpå‡ºitemçš„å€¼ */
 		dumpItem(item);
 
 		server.dispose();

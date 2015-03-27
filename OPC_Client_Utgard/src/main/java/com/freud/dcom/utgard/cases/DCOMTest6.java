@@ -19,7 +19,7 @@ import org.openscada.opc.dcom.da.impl.OPCItemIO;
 import org.openscada.opc.dcom.da.impl.OPCServer;
 
 /**
- * QueryÖ¸¶¨µÄItem
+ * QueryæŒ‡å®šçš„Item
  * 
  * @author Freud
  * 
@@ -30,7 +30,7 @@ public class DCOMTest6 {
 		JISystem.setAutoRegisteration(true);
 
 		/**
-		 * Session»ñÈ¡
+		 * Sessionè·å–
 		 */
 		JISession _session = JISession.createSession(
 				getEntryValue(CONFIG_DOMAIN), getEntryValue(CONFIG_USERNAME),
@@ -45,7 +45,7 @@ public class DCOMTest6 {
 		OPCServer server = new OPCServer(serverObject);
 
 		/**
-		 * Ìí¼ÓÒ»¸öGroupµÄĞÅÏ¢
+		 * æ·»åŠ ä¸€ä¸ªGroupçš„ä¿¡æ¯
 		 */
 		OPCGroupStateMgt group = server.addGroup("test", true, 100, 1234, 60,
 				0.0f, 1033);

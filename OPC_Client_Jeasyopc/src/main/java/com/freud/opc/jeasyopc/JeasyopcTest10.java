@@ -6,7 +6,7 @@ import javafish.clients.opc.component.OpcGroup;
 import javafish.clients.opc.component.OpcItem;
 
 /**
- * Òì²½10ºÍÒì²½20¶ÁÈ¡
+ * å¼‚æ­¥10å’Œå¼‚æ­¥20è¯»å–
  * 
  * @author Freud
  * 

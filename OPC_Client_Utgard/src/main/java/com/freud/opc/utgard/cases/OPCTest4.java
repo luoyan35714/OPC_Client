@@ -12,17 +12,17 @@ import org.openscada.opc.lib.da.SyncAccess;
 import com.freud.opc.utgard.BaseConfiguration;
 
 /**
- * Í¬²½Access£¬¶ÁÈ¡Ä³¸öµãµÄ±ä»¯Öµ
+ * å¼‚æ­¥è¯»å–ç‚¹ä½çš„ä¿¡æ¯ï¼Œè¯»å–æŸä¸ªç‚¹çš„å˜åŒ–å€¼
  * 
  * @author Freud
  * 
  */
 public class OPCTest4 {
 
-	/** ¼ä¸ôÊ±¼ä */
+	/** é—´éš”æ—¶é—´ */
 	private static final int PERIOD = 100;
 
-	/** ĞİÃßÊ±¼ä */
+	/** ä¼‘çœ æ—¶é—´ */
 	private static final int SLEEP = 2000;
 
 	public static void main(String[] args) throws Exception {
@@ -34,12 +34,12 @@ public class OPCTest4 {
 		server.connect();
 
 		/**
-		 * ÆäÖĞ100µ¥Î»ÎªºÁÃë£¬ÎªÃ¿´Î´ÓOPC»ñÈ¡Ë¢ĞÂµÄ¼ä¸ôÊ±¼ä
+		 * å…¶ä¸­100å•ä½ä¸ºæ¯«ç§’ï¼Œä¸ºæ¯æ¬¡ä»OPCè·å–åˆ·æ–°çš„é—´éš”æ—¶é—´
 		 */
 		AccessBase access = new SyncAccess(server, PERIOD);
 
 		/**
-		 * ¶¨Ê±Ã¿¸ô¼ä¸ôÊ±¼ä»ñÈ¡Ò»´ÎÖµ
+		 * å®šæ—¶æ¯éš”é—´éš”æ—¶é—´è·å–ä¸€æ¬¡å€¼
 		 */
 		access.addItem("Random.Real5", new DataCallback() {
 			private int i;
@@ -50,12 +50,12 @@ public class OPCTest4 {
 			}
 		});
 
-		/** ¿ªÊ¼¼àÌı */
+		/** å¼€å§‹ç›‘å¬ */
 		access.bind();
 
-		/** µ±Ç°Ïß³ÌĞİÃßÊ±¼äµ¥Î»£ººÁÃë */
+		/** å½“å‰çº¿ç¨‹ä¼‘çœ æ—¶é—´å•ä½ï¼šæ¯«ç§’ */
 		Thread.sleep(SLEEP);
-		/** ¼àÌı ½áÊø */
+		/** ç›‘å¬ ç»“æŸ */
 		access.unbind();
 
 		server.dispose();

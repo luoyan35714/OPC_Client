@@ -3,7 +3,7 @@ package com.freud.opc.jeasyopc;
 import javafish.clients.opc.JOpc;
 
 /**
- * 连接到OPC Server, 每隔200毫秒查看一次状态，1秒钟之后关闭连接
+ * 杩炴帴鍒癘PC Server, 姣忛殧200姣鏌ョ湅涓�娆＄姸鎬侊紝1绉掗挓涔嬪悗鍏抽棴杩炴帴
  * 
  * @author Freud
  * 

@@ -6,7 +6,7 @@ import java.util.Properties;
 import org.openscada.opc.lib.common.ConnectionInformation;
 
 /**
- * ÅäÖÃÎÄ¼ş¹¤¾ßÀà
+ * é…ç½®æ–‡ä»¶å·¥å…·ç±»
  * 
  * @author Freud
  * 
@@ -26,7 +26,7 @@ public final class BaseConfiguration {
 	private final static String CONFIG_FILE_NAME = "config.properties";
 
 	/**
-	 * ¼ÓÔØÅäÖÃÎÄ¼ş
+	 * åŠ è½½é…ç½®æ–‡ä»¶
 	 */
 	static {
 		ci = new ConnectionInformation();
@@ -40,7 +40,7 @@ public final class BaseConfiguration {
 	}
 
 	/**
-	 * Í¨¹ıÃû×Ö»ñµÃÅäÖÃµÄÖµ
+	 * é€šè¿‡åå­—è·å¾—é…ç½®çš„å€¼
 	 * 
 	 * @param name
 	 * @return
@@ -50,7 +50,7 @@ public final class BaseConfiguration {
 	}
 
 	/**
-	 * »ñµÃ°üº¬ClsIdµÄÁ¬½ÓĞÅÏ¢
+	 * è·å¾—åŒ…å«ClsIdçš„è¿æ¥ä¿¡æ¯
 	 * 
 	 * @return
 	 */
@@ -62,7 +62,7 @@ public final class BaseConfiguration {
 	}
 
 	/**
-	 * »ñµÃ°üº¬ProgIdµÄÁ¬½ÓĞÅÏ¢
+	 * è·å¾—åŒ…å«ProgIdçš„è¿æ¥ä¿¡æ¯
 	 * 
 	 * @return
 	 */
@@ -74,7 +74,7 @@ public final class BaseConfiguration {
 	}
 
 	/**
-	 * »ñµÃ»ù´¡µÄÁ¬½ÓĞÅÏ¢
+	 * è·å¾—åŸºç¡€çš„è¿æ¥ä¿¡æ¯
 	 */
 	private static void getConnectionInfomation() {
 		ci.setHost(prop.getProperty(CONFIG_HOST));

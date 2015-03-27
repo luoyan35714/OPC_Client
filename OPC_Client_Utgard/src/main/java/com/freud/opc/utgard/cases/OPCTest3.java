@@ -12,7 +12,7 @@ import org.openscada.opc.lib.da.Server;
 import com.freud.opc.utgard.BaseConfiguration;
 
 /**
- * Í¬²½¶ÁÈ¡Ä³¸öµãÎ»µÄÖµ
+ * åŒæ­¥è¯»å–æŸä¸ªç‚¹ä½çš„å€¼
  * 
  * @author Freud
  * 

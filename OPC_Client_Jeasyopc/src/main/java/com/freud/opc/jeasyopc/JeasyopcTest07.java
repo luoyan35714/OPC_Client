@@ -7,7 +7,7 @@ import javafish.clients.opc.component.OpcItem;
 import javafish.clients.opc.variant.Variant;
 
 /**
- * ͬ����ȡItemֵ
+ * 同步读取Item值
  * 
  * @author Freud
  * 

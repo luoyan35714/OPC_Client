@@ -8,7 +8,7 @@ import javafish.clients.opc.component.OpcGroup;
 import javafish.clients.opc.component.OpcItem;
 
 /**
- * Òì²½¶©ÔÄÊ½¶ÁÈ¡
+ * å¼‚æ­¥è®¢é˜…å¼è¯»å–
  * 
  * @author Freud
  * 

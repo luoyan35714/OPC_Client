@@ -6,7 +6,7 @@ import javafish.clients.opc.component.OpcItem;
 import javafish.clients.opc.exception.CoInitializeException;
 
 /**
- * 连接到OPC Server, 并添加一个Group，在Group下添加一个Item
+ * 杩炴帴鍒癘PC Server, 骞舵坊鍔犱竴涓狦roup锛屽湪Group涓嬫坊鍔犱竴涓狪tem
  * 
  * @author Freud
  * 

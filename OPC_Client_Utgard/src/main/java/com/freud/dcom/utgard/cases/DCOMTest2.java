@@ -23,7 +23,7 @@ import org.openscada.opc.dcom.da.impl.OPCBrowseServerAddressSpace;
 import org.openscada.opc.dcom.da.impl.OPCServer;
 
 /**
- * ±éÀúOPCÁ¬½ÓÏÂµÄËùÓĞGroupºÍItem
+ * éå†OPCè¿æ¥ä¸‹çš„æ‰€æœ‰Groupå’ŒItem
  * 
  * @author Freud
  * 
@@ -34,7 +34,7 @@ public class DCOMTest2 {
 		JISystem.setAutoRegisteration(true);
 
 		/**
-		 * Session»ñÈ¡
+		 * Sessionè·å–
 		 */
 		JISession _session = JISession.createSession(
 				getEntryValue(CONFIG_DOMAIN), getEntryValue(CONFIG_USERNAME),
@@ -50,19 +50,19 @@ public class DCOMTest2 {
 		final OPCBrowseServerAddressSpace serverBrowser = server.getBrowser();
 
 		/**
-		 * FlatĞÎÊ½»ñÈ¡ËùÓĞItemĞÅÏ¢
+		 * Flatå½¢å¼è·å–æ‰€æœ‰Itemä¿¡æ¯
 		 */
 		browseFlat(serverBrowser);
 
 		/**
-		 * »ñÈ¡ËùÓĞµÄGroupºÍItemĞÅÏ¢
+		 * è·å–æ‰€æœ‰çš„Groupå’ŒItemä¿¡æ¯
 		 */
 		browseTree(serverBrowser);
 
 	}
 
 	/**
-	 * TreeĞÎÊ½»ñÈ¡ËùÓĞGroupºÍItemµÄĞÅÏ¢
+	 * Treeå½¢å¼è·å–æ‰€æœ‰Groupå’ŒItemçš„ä¿¡æ¯
 	 */
 	private static void browseTree(final OPCBrowseServerAddressSpace browser)
 			throws IllegalArgumentException, UnknownHostException, JIException {
@@ -108,7 +108,7 @@ public class DCOMTest2 {
 	}
 
 	/**
-	 * FlatĞÎÊ½»ñÈ¡ItemµÄĞÅÏ¢
+	 * Flatå½¢å¼è·å–Itemçš„ä¿¡æ¯
 	 */
 	private static void browseFlat(final OPCBrowseServerAddressSpace browser)
 			throws JIException, IllegalArgumentException, UnknownHostException {

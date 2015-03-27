@@ -20,7 +20,7 @@ import org.openscada.opc.dcom.da.impl.OPCGroupStateMgt;
 import org.openscada.opc.dcom.da.impl.OPCServer;
 
 /**
- * Í¨¹ıScope±éÀúOPCÁ¬½ÓÏÂµÄËùÓĞGroupĞÅÏ¢
+ * é€šè¿‡Scopeéå†OPCè¿æ¥ä¸‹çš„æ‰€æœ‰Groupä¿¡æ¯
  * 
  * @author Freud
  * 
@@ -31,7 +31,7 @@ public class DCOMTest3 {
 		JISystem.setAutoRegisteration(true);
 
 		/**
-		 * Session»ñÈ¡
+		 * Sessionè·å–
 		 */
 		JISession _session = JISession.createSession(
 				getEntryValue(CONFIG_DOMAIN), getEntryValue(CONFIG_USERNAME),
@@ -46,7 +46,7 @@ public class DCOMTest3 {
 		OPCServer server = new OPCServer(serverObject);
 
 		/**
-		 * Ìí¼ÓÒ»¸öGroupµÄĞÅÏ¢
+		 * æ·»åŠ ä¸€ä¸ªGroupçš„ä¿¡æ¯
 		 */
 		OPCGroupStateMgt group = server.addGroup("test", true, 100, 1234, 60,
 				0.0f, 1033);
@@ -60,7 +60,7 @@ public class DCOMTest3 {
 	}
 
 	/**
-	 * Í¨¹ıScope²éÕÒ²¢±éÀúGroupsµÄĞÅÏ¢
+	 * é€šè¿‡ScopeæŸ¥æ‰¾å¹¶éå†Groupsçš„ä¿¡æ¯
 	 * 
 	 * @param server
 	 * @param scope
